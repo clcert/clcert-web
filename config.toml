@@ -1,0 +1,75 @@
+baseurl = "/"
+author = "CLCERT Universidad de Chile"
+title = "CLCERT"
+languageCode = "es-cl"
+theme = "clcert-lab"
+enableRobotsTXT = true
+mainSections = ["blog"]
+SectionPagesMenu = ["main", "social"]
+
+
+[params.meta]
+description = "Tema oficial CLCERT, basado en Go Foundation"
+keywords = "clcert, uchile"
+
+[params.hero]
+herodescription = '''
+Somos un grupo dedicado al monitoreo y análisis de los problemas de seguridad de los sistemas computacionales en Chile, y a la generación tanto del conocimiento como el recurso humano especializado para asegurar dichos sistemas.
+'''
+link = "/nosotros/"
+
+[[menu.main]]
+name = "Nosotros"
+weight = 1
+url = "/nosotros"
+
+[[menu.main]]
+name = "Proyectos"
+weight = 2
+url = "/proyectos"
+
+[[menu.main]]
+name = "Blog"
+weight = 3
+url = "/blog"
+
+[[menu.main]]
+name = "Diplomados"
+weight = 4
+url = "/diplomados"
+
+[[menu.main]]
+name = "Humor"
+weight = 5
+url = "/humor"
+
+[[menu.main]]
+name = "Contacto"
+weight = 6
+url = "/contacto"
+
+[[menu.footer]]
+name = "Preguntas Frecuentes"
+url = "/faq"
+weight = 1
+
+[[menu.footer]]
+name = "Políticas de Confidencialidad"
+url = "/confidencialidad"
+weight = 2
+
+[[menu.footer]]
+name = "Cómo citarnos"
+url = "/citas"
+weight = 3 
+
+
+[[menu.footer]]
+name = "Twitter"
+url = "http://twitter.com/clcert"
+weight = 4
+
+[[menu.footer]]
+name = "Github"
+url = "http://github.com/clcert"
+weight = 5

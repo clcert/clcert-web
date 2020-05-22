@@ -1,0 +1,31 @@
+[[alumnus]]
+first_name = "Leonardo"
+last_name = "Cavieres Córdoba"
+photo = "lcavieres.jpg"
+[[alumnus]]
+first_name = "Alejandro"
+last_name = "Corvalán Sepúlveda"
+photo = "lcorvalan.png"
+[[alumnus]]
+first_name = "Oscar"
+last_name = "Durán Rabah"
+photo = "oduran.png"
+[[alumnus]]
+last_name = "Anónimo"
+photo = "void.png"
+[[alumnus]]
+first_name = "Juan Francisco"
+last_name = "Lambert Cisterna"
+photo = "flambert.png"
+[[alumnus]]
+first_name = "Héctor Alejandro"
+last_name = "Pinto Fernández"
+photo = "hpinto.png"
+[[alumnus]]
+first_name = "Rodrigo"
+last_name = "Rodríguez Aránguiz"
+photo = "void.png"
+[[alumnus]]
+first_name = "Jaime Francisco"
+last_name = "Urbano Benavente"
+photo = "jurbano.png"

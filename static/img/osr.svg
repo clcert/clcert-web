@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="OSR.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8409"
+   version="1.1"
+   viewBox="0 0 66.350487 41.080048"
+   height="41.080048mm"
+   width="66.350487mm">
+  <defs
+     id="defs8403" />
+  <sodipodi:namedview
+     lock-margins="true"
+     fit-margin-bottom="5"
+     fit-margin-right="5"
+     fit-margin-left="5"
+     fit-margin-top="5"
+     inkscape:window-maximized="1"
+     inkscape:window-y="28"
+     inkscape:window-x="0"
+     inkscape:window-height="1024"
+     inkscape:window-width="1920"
+     inkscape:snap-global="false"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="62.866435"
+     inkscape:cx="128.44714"
+     inkscape:zoom="3.5524957"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata8406">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-80.61509,-74.220978)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#122233;stroke-width:2.16596px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 93.025572,84.919994 c 0,0 6.65078,2.960876 17.700878,0"
+       id="path7973"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#288fbe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.658427;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 102.15525,80.256191 v 0.0015 0.003 c -2.520528,0.01838 -4.694718,1.495224 -5.746978,3.614101 0.21594,0.03553 0.43051,0.0824 0.64718,0.115168 0.42726,0.06432 0.85641,0.120376 1.28541,0.173365 0.29037,0.03584 0.58224,0.05912 0.87289,0.08975 0.70847,-0.854387 1.762068,-1.412094 2.963918,-1.422907 1.21705,-0.0092 2.29316,0.542454 3.01774,1.401987 0.219,-0.02144 0.43957,-0.04196 0.65765,-0.06861 0.42903,-0.05299 0.85215,-0.112106 1.27944,-0.176428 0.29129,-0.0438 0.57826,-0.101997 0.86839,-0.151005 -1.07799,-2.137225 -3.29712,-3.602615 -5.84564,-3.579704 z m 6.54216,7.301409 c -0.33099,0.05697 -0.66041,0.124357 -0.99247,0.174896 -0.46046,0.06984 -0.92511,0.13814 -1.38704,0.195724 -0.0634,0.0061 -0.12803,0.0092 -0.19144,0.01838 v 1.333254 l -7.824588,0.0925 v -1.398985 c -0.14396,-0.01532 -0.28762,-0.03063 -0.43194,-0.04472 -0.46196,-0.05758 -0.92658,-0.124051 -1.38708,-0.194193 -0.25147,-0.03829 -0.49939,-0.09005 -0.75031,-0.131402 v 2.126903 c -0.9645,0.499143 -1.62371,1.499941 -1.60974,2.663475 l 0.11945,5.587059 c 0.0214,1.644879 1.36238,2.952249 3.00727,2.932529 l 10.124858,-0.12099 c 1.64485,-0.0153 2.95226,-1.36091 2.93253,-3.005763 l -0.12099,-5.585558 c -0.0122,-1.08944 -0.61247,-2.019882 -1.48867,-2.525978 z m -6.47787,4.534802 c 1.02108,0.0026 1.84747,0.833805 1.84291,1.85488 -0.003,0.70035 -0.40276,1.336745 -1.03131,1.645616 l 0.88483,2.503557 h -3.4422 l 0.91472,-2.50953 c -0.62634,-0.31322 -1.02211,-0.95421 -1.02083,-1.654591 0.002,-1.020186 0.8317,-1.841984 1.85188,-1.839932 z"
+       id="path5684-3"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g8102"
+       transform="matrix(2.9586112,0.79275748,-0.79275748,2.9586112,-112.31781,-232.30429)">
+      <path
+         sodipodi:nodetypes="cccsccsccccccsccssccccccccsccssssccsssscc"
+         d="m 90.606169,81.896679 -0.378227,6.86e-4 c -6.08e-4,6.24e-4 -0.0015,7.23e-4 -0.0021,0.0013 -0.03583,0.03765 -0.05898,0.09609 -0.05897,0.151161 l -10e-7,0.117259 -0.130144,4e-6 10e-7,-0.11726 c 2e-6,-0.05408 0.0159,-0.105324 0.03864,-0.15251 l -0.456637,-6e-6 c -0.165259,8.5e-5 -0.297725,0.156115 -0.297567,0.32138 l 6.78e-4,0.864144 c 1.57e-4,0.16526 0.132975,0.298332 0.298245,0.298246 l 0.453923,-2e-6 c -0.02251,-0.0477 -0.03731,-0.09922 -0.03722,-0.153206 l -8e-6,-0.11795 0.130144,-4e-6 8e-6,0.11795 c -2e-6,0.05493 0.02301,0.112926 0.05897,0.151158 8.48e-4,9.12e-4 0.0018,0.0012 0.0028,0.0022 l 0.376196,-6.8e-4 1.024878,-0.190468 c 0.01311,-0.0337 0.02172,-0.07001 0.02169,-0.108449 l -6.78e-4,-0.887279 c -2e-5,-0.03794 -0.0089,-0.07313 -0.02168,-0.106425 z m -0.798194,0.396532 0.501594,-5e-6 c 0.04005,-10e-7 0.06807,0.02751 0.08202,0.06235 l 0.0049,0.0673 0.246253,-0.0056 c 0.0792,-0.0018 0.143021,0.0638 0.143021,0.143022 v 0.149509 c 0,0.07922 -0.06381,0.141603 -0.143024,0.143021 l -0.251536,0.0045 -2.7e-4,0.0649 c -0.01416,0.0346 -0.0416,0.06235 -0.08133,0.06235 l -0.501594,5e-6 c -0.05247,0 -0.09491,-0.04243 -0.09491,-0.0949 l 4e-6,-0.50227 c 0,-0.05247 0.04243,-0.09422 0.0949,-0.09422 z"
+         style="fill:#288fbe;fill-opacity:1;stroke:none;stroke-width:0.223571;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect7709" />
+      <path
+         id="path7975"
+         d="m 89.538132,81.67288 v 1.916536"
+         style="fill:none;stroke:#ffffff;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="g8079">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.186268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect7977"
+           width="0.22375122"
+           height="0.13242513"
+           x="89.200859"
+           y="82.20134"
+           ry="0.047034793" />
+        <rect
+           ry="0.047034796"
+           y="82.387871"
+           x="89.200859"
+           height="0.13242513"
+           width="0.22375122"
+           id="rect7977-9"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.186268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           ry="0.047034796"
+           y="82.574394"
+           x="89.200859"
+           height="0.13242513"
+           width="0.22375122"
+           id="rect7977-3"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.186268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.186268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect7977-9-6"
+           width="0.22375122"
+           height="0.13242513"
+           x="89.200859"
+           y="82.760925"
+           ry="0.0470348" />
+        <rect
+           ry="0.0470348"
+           y="82.947456"
+           x="89.200859"
+           height="0.13242513"
+           width="0.22375122"
+           id="rect7977-9-6-0"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.186268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.186268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect7977-9-6-0-6"
+           width="0.22375122"
+           height="0.13242513"
+           x="89.200859"
+           y="83.13398"
+           ry="0.0470348" />
+        <rect
+           ry="0.0470348"
+           y="82.014816"
+           x="89.200859"
+           height="0.13242513"
+           width="0.22375122"
+           id="rect7977-9-6-0-6-2"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.186268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       transform="matrix(-2.9586112,0.79275749,0.79275749,2.9586112,316.23308,-232.30719)"
+       id="g8102-6">
+      <path
+         id="rect7709-1"
+         style="fill:#288fbe;fill-opacity:1;stroke:none;stroke-width:0.223571;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 90.606169,81.896679 -0.378227,6.86e-4 c -6.08e-4,6.24e-4 -0.0015,7.23e-4 -0.0021,0.0013 -0.03583,0.03765 -0.05898,0.09609 -0.05897,0.151161 l -10e-7,0.117259 -0.130144,4e-6 10e-7,-0.11726 c 2e-6,-0.05408 0.0159,-0.105324 0.03864,-0.15251 l -0.456637,-6e-6 c -0.165259,8.5e-5 -0.297725,0.156115 -0.297567,0.32138 l 6.78e-4,0.864144 c 1.57e-4,0.16526 0.132975,0.298332 0.298245,0.298246 l 0.453923,-2e-6 c -0.02251,-0.0477 -0.03731,-0.09922 -0.03722,-0.153206 l -8e-6,-0.11795 0.130144,-4e-6 8e-6,0.11795 c -2e-6,0.05493 0.02301,0.112926 0.05897,0.151158 8.48e-4,9.12e-4 0.0018,0.0012 0.0028,0.0022 l 0.376196,-6.8e-4 1.024878,-0.190468 c 0.01311,-0.0337 0.02172,-0.07001 0.02169,-0.108449 l -6.78e-4,-0.887279 c -2e-5,-0.03794 -0.0089,-0.07313 -0.02168,-0.106425 z m -0.798194,0.396532 0.501594,-5e-6 c 0.04005,-10e-7 0.06807,0.02751 0.08202,0.06235 l 0.0049,0.0673 0.246253,-0.0056 c 0.0792,-0.0018 0.143021,0.0638 0.143021,0.143022 v 0.149509 c 0,0.07922 -0.06381,0.141603 -0.143024,0.143021 l -0.251536,0.0045 -2.7e-4,0.0649 c -0.01416,0.0346 -0.0416,0.06235 -0.08133,0.06235 l -0.501594,5e-6 c -0.05247,0 -0.09491,-0.04243 -0.09491,-0.0949 l 4e-6,-0.50227 c 0,-0.05247 0.04243,-0.09422 0.0949,-0.09422 z"
+         sodipodi:nodetypes="cccsccsccccccsccssccccccccsccssssccsssscc" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 89.538132,81.67288 v 1.916536"
+         id="path7975-8" />
+      <g
+         id="g8079-7">
+        <rect
+           ry="0.047034793"
+           y="82.20134"
+           x="89.200859"
+           height="0.13242513"
+           width="0.22375122"
+           id="rect7977-92"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.186268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.186268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect7977-9-0"
+           width="0.22375122"
+           height="0.13242513"
+           x="89.200859"
+           y="82.387871"
+           ry="0.047034796" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.186268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect7977-3-2"
+           width="0.22375122"
+           height="0.13242513"
+           x="89.200859"
+           y="82.574394"
+           ry="0.047034796" />
+        <rect
+           ry="0.0470348"
+           y="82.760925"
+           x="89.200859"
+           height="0.13242513"
+           width="0.22375122"
+           id="rect7977-9-6-3"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.186268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.186268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect7977-9-6-0-7"
+           width="0.22375122"
+           height="0.13242513"
+           x="89.200859"
+           y="82.947456"
+           ry="0.0470348" />
+        <rect
+           ry="0.0470348"
+           y="83.13398"
+           x="89.200859"
+           height="0.13242513"
+           width="0.22375122"
+           id="rect7977-9-6-0-6-5"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.186268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.186268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect7977-9-6-0-6-2-9"
+           width="0.22375122"
+           height="0.13242513"
+           x="89.200859"
+           y="82.014816"
+           ry="0.0470348" />
+      </g>
+    </g>
+    <g
+       id="g9338">
+      <path
+         id="path9148"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 128.33094,104.81181 v 0.0187 q 0,0.13077 0.0955,0.25531 0.0498,0.056 0.0768,0.0747 0.13907,0.10378 0.31343,0.10378 0.18889,0 0.33627,-0.12662 0.1453,-0.13699 0.1453,-0.31758 0,-0.16813 -0.13077,-0.30305 -0.0685,-0.0644 -0.1453,-0.0976 -0.10171,-0.0436 -0.20342,-0.0436 h -0.0104 q -0.137,0 -0.26362,0.0747 -0.0374,0.0208 -0.0955,0.0789 -0.0602,0.0664 -0.083,0.12454 -0.0353,0.081 -0.0353,0.15776 z m -0.054,1.49451 v 0.004 q 0,0.13284 0.1453,0.24286 0.18266,0.12246 0.46496,0.12246 0.25738,0 0.44212,-0.12039 0.0332,-0.0208 0.081,-0.0706 0.0893,-0.0996 0.0893,-0.19719 v -0.006 q 0,-0.0955 -0.081,-0.17436 -0.0623,-0.056 -0.16398,-0.0872 -0.1287,-0.0332 -0.24701,-0.0332 h -0.1972 q -0.15567,0 -0.27606,-0.0187 -0.0519,0.0311 -0.13285,0.10378 -0.12454,0.1287 -0.12454,0.23456 z m 0.53553,-2.22101 q 0.25116,0 0.46288,0.14322 0.0457,-0.0498 0.0706,-0.0664 0.0747,-0.0498 0.13907,-0.0623 0.054,-0.0145 0.10378,-0.0145 h 0.0644 l 0.002,0.002 v 0.28644 l -0.002,0.002 h -0.0519 q -0.0643,0 -0.0996,0.0374 -0.0166,0.0208 -0.0166,0.0374 0.0353,0.054 0.0664,0.14115 0.0374,0.11417 0.0374,0.22833 0,0.28022 -0.20341,0.49817 -0.0851,0.081 -0.12662,0.10379 -0.0602,0.0415 -0.13908,0.0747 -0.14737,0.0581 -0.2989,0.0581 h -0.0125 q -0.17644,0 -0.34664,-0.0789 -0.0394,0.0478 -0.0394,0.10171 0,0.0498 0.0311,0.0623 0.083,0.0581 0.38193,0.0581 l 0.1453,-0.002 q 0.40477,0 0.62687,0.18889 0.0581,0.056 0.081,0.0872 0.10171,0.14737 0.10171,0.31343 0,0.16606 -0.10794,0.32589 -0.0249,0.0394 -0.0955,0.10793 -0.0747,0.0664 -0.12039,0.0934 -0.0581,0.0374 -0.12662,0.0664 -0.0872,0.0353 -0.16606,0.056 -0.14322,0.0311 -0.25116,0.0311 h -0.0706 q -0.18266,0 -0.37986,-0.0643 -0.0976,-0.0374 -0.17436,-0.083 -0.054,-0.0332 -0.11624,-0.0872 -0.056,-0.056 -0.081,-0.0893 -0.11416,-0.15983 -0.11416,-0.32381 v -0.0228 q 0,-0.16813 0.13492,-0.3508 0.0519,-0.0623 0.10171,-0.0975 l 0.0124,-0.0104 q -0.10378,-0.0996 -0.10378,-0.25739 v -0.006 q 0,-0.14322 0.0913,-0.26569 0.004,-0.004 0.004,-0.008 -0.0457,-0.0498 -0.081,-0.10586 -0.10586,-0.17644 -0.10586,-0.37363 0,-0.26984 0.19096,-0.48364 0.0706,-0.0727 0.0934,-0.0872 0.0643,-0.0477 0.13492,-0.083 0.17228,-0.0809 0.35287,-0.0809 z" />
+      <path
+         id="path9116"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 93.836821,103.03293 h 0.01245 q 0.529305,0 0.950674,0.40476 0.157754,0.16813 0.209647,0.26569 0.238706,0.38816 0.238706,0.84066 v 0.0166 q 0,0.62686 -0.442126,1.10012 -0.421368,0.41099 -0.965204,0.41099 -0.531381,0 -0.95275,-0.40269 -0.186814,-0.20341 -0.228328,-0.29682 -0.222101,-0.37778 -0.222101,-0.80538 v -0.0291 q 0,-0.55421 0.367401,-1.01294 0.147375,-0.15776 0.211722,-0.20342 0.38193,-0.28852 0.819905,-0.28852 z m -1.108428,1.50904 v 0.0207 q 0,0.5044 0.359097,0.89463 0.334189,0.32381 0.757634,0.32381 0.496094,0 0.853116,-0.44005 0.259463,-0.35909 0.259463,-0.78046 v -0.0166 q 0,-0.50647 -0.359097,-0.8967 -0.334189,-0.32382 -0.757634,-0.32382 -0.471186,0 -0.82198,0.40062 -0.290599,0.3674 -0.290599,0.81783 z" />
+      <path
+         id="path9118"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 95.758926,103.03293 h 0.278145 l 0.0062,0.006 v 1.38865 h 0.0021 q 0.02698,-0.0602 0.174359,-0.19096 0.209647,-0.15776 0.481565,-0.15776 0.506472,0 0.815753,0.4359 0.168132,0.26777 0.168132,0.54799 v 0.0457 q 0,0.37778 -0.282296,0.69121 -0.149451,0.14115 -0.271918,0.1972 -0.207571,0.0934 -0.400611,0.0934 l -0.0021,-0.002 -0.01038,0.002 q -0.448353,0 -0.672529,-0.34456 h -0.0021 v 0.32173 l -0.0062,0.004 h -0.278145 l -0.0062,-0.004 v -3.02846 z m 0.300978,2.03004 v 0.0228 q 0,0.36117 0.278145,0.59365 0.161905,0.11832 0.39646,0.11832 0.327962,0 0.547987,-0.31343 0.112088,-0.19304 0.112088,-0.37986 v -0.0332 q 0,-0.31136 -0.253236,-0.54591 -0.182662,-0.15153 -0.446277,-0.15153 -0.384006,0 -0.574972,0.40684 -0.06019,0.1536 -0.06019,0.2823 z" />
+      <path
+         id="path9120"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 98.822671,104.0687 h 0.02906 q 0.211722,0 0.402687,0.10171 0.06227,0.0311 0.132846,0.0893 0.06435,0.056 0.101709,0.10378 0.03114,0.0415 0.03114,0.0477 -0.18889,0.10793 -0.249085,0.14737 h -0.0021 q -0.03736,-0.056 -0.112088,-0.10794 -0.134921,-0.0913 -0.321735,-0.0913 -0.217949,0 -0.354946,0.10794 -0.09341,0.083 -0.09341,0.18266 0,0.0747 0.0602,0.11417 0.02283,0.0207 0.06435,0.0394 0.09133,0.0477 0.311356,0.0996 0.103785,0.0208 0.263615,0.0519 0.10171,0.0249 0.170208,0.0581 0.06227,0.0291 0.126618,0.0768 0.01868,0.0125 0.0768,0.0726 0.124543,0.14738 0.124543,0.31966 v 0.0125 q 0,0.18473 -0.134921,0.34871 -0.05397,0.0581 -0.0851,0.081 -0.06642,0.0477 -0.120391,0.0747 -0.199268,0.0934 -0.408915,0.0934 h -0.02698 q -0.230404,0 -0.442126,-0.11209 -0.203419,-0.11624 -0.315507,-0.31758 0.0021,-0.004 0.120391,-0.0685 l 0.132845,-0.0727 q 0.09548,0.16606 0.278145,0.23871 0.114164,0.0415 0.240782,0.0415 0.182662,0 0.327962,-0.0851 0.02906,-0.0145 0.07473,-0.0581 0.0685,-0.081 0.0685,-0.17021 0,-0.137 -0.172284,-0.21795 -0.04151,-0.0187 -0.120391,-0.0374 -0.332113,-0.0581 -0.521003,-0.12662 -0.384006,-0.14115 -0.384006,-0.45458 v -0.006 q 0,-0.18889 0.143224,-0.34872 0.0685,-0.0685 0.09548,-0.083 0.09133,-0.0664 0.215873,-0.10378 0.136997,-0.0415 0.271918,-0.0415 z" />
+      <path
+         id="path9122"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 100.84234,104.08116 q 0.42759,0 0.73272,0.37778 0.20134,0.29682 0.20134,0.57912 v 0.0249 q 0,0.0955 -0.0125,0.0955 h -1.57546 q 0,0.0996 0.083,0.28022 0.12454,0.23248 0.35909,0.32381 0.11417,0.0374 0.2055,0.0374 0.28437,0 0.49194,-0.247 0.0726,-0.0996 0.0955,-0.15983 h 0.004 q 0.16813,0.0664 0.26361,0.11208 -0.0457,0.13077 -0.20342,0.30513 -0.28645,0.28022 -0.6497,0.28022 -0.43382,0 -0.74102,-0.37985 -0.201347,-0.28852 -0.201347,-0.61233 v -0.0187 q 0,-0.41514 0.296827,-0.72649 0.27814,-0.27192 0.6497,-0.27192 z m -0.62479,0.79084 h 1.24127 q -0.0872,-0.27191 -0.29475,-0.40061 -0.15153,-0.0976 -0.33004,-0.0976 -0.30305,0 -0.51685,0.2823 -0.0664,0.0976 -0.0996,0.21587 z" />
+      <path
+         id="path9124"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 103.09033,104.08531 q 0.2221,0 0.38608,0.0976 l -0.0644,0.30928 h -0.002 q -0.18474,-0.10794 -0.34042,-0.10794 -0.34664,0 -0.48572,0.31966 -0.0311,0.0768 -0.0311,0.15775 v 1.20391 l -0.006,0.006 h -0.27814 l -0.006,-0.006 v -1.93455 l 0.006,-0.006 h 0.27814 l 0.006,0.006 v 0.16813 h 0.002 q 0.0913,-0.12662 0.26777,-0.17851 0.137,-0.0353 0.26777,-0.0353 z" />
+      <path
+         id="path9126"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 103.94759,104.09984 q 0.006,0.002 0.67461,1.56093 0.004,-0.002 0.3072,-0.70781 l 0.36948,-0.85312 h 0.32174 l 0.006,0.006 -0.86142,1.96569 h -0.28022 q -0.008,-0.002 -0.0727,-0.15983 l -0.79292,-1.81001 0.002,-0.002 z" />
+      <path
+         id="path9128"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 106.87019,104.07908 q 0.40892,0 0.65177,0.33627 l 0.006,0.0125 h 0.002 v -0.32381 l 0.004,-0.006 h 0.28022 l 0.006,0.006 v 1.96154 l -0.006,0.006 h -0.28022 l -0.004,-0.006 v -0.31965 h -0.002 q -0.22418,0.34456 -0.67668,0.34456 v -0.002 l -0.004,0.002 q -0.40269,0 -0.70574,-0.32381 -0.25324,-0.30305 -0.25324,-0.66837 v -0.0249 q 0,-0.39024 0.28022,-0.69744 0.29475,-0.29683 0.70159,-0.29683 z m -0.69121,0.99842 v 0.0104 q 0,0.34664 0.27815,0.57497 0.17436,0.13492 0.38815,0.13492 0.45043,0 0.62272,-0.44213 0.0457,-0.12869 0.0457,-0.25738 v -0.0457 q 0,-0.18059 -0.11416,-0.37778 -0.19512,-0.30098 -0.52101,-0.30098 -0.44005,0 -0.63931,0.41514 -0.0602,0.14738 -0.0602,0.28853 z" />
+      <path
+         id="path9130"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 108.52868,103.03293 h 0.28853 l 0.002,0.002 v 1.06484 h 0.53553 l 0.002,0.002 v 0.28852 l -0.002,0.002 h -0.53553 v 1.13957 q 0,0.0851 0.0436,0.15775 0.0436,0.0581 0.11832,0.081 0.0332,0.0104 0.0581,0.0104 h 0.0125 q 0.0768,0 0.21587,-0.054 l 0.0249,-0.0124 q 0.10586,0.23248 0.11832,0.26569 -0.0291,0.0166 -0.11832,0.0477 -0.1453,0.0436 -0.22833,0.0436 h -0.0353 q -0.11001,0 -0.23248,-0.0643 -0.16398,-0.0893 -0.22833,-0.25947 -0.0394,-0.10794 -0.0394,-0.23455 v -1.12089 h -0.32588 l -0.002,-0.002 v -0.28852 l 0.002,-0.002 h 0.32588 z" />
+      <path
+         id="path9132"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 110.66251,104.08531 h 0.054 q 0.31966,0 0.6061,0.24701 0.32589,0.31758 0.32589,0.75556 0,0.4442 -0.34249,0.76801 -0.2823,0.23455 -0.61649,0.23455 -0.35909,0 -0.64969,-0.26569 -0.30721,-0.31758 -0.30721,-0.72649 v -0.0249 q 0,-0.40684 0.30513,-0.72235 0.29268,-0.26569 0.62479,-0.26569 z m -0.63932,1.00049 v 0.0104 q 0,0.29267 0.22003,0.51893 0.20134,0.18473 0.44627,0.18473 0.31344,0 0.53554,-0.28644 0.13284,-0.20342 0.13284,-0.4276 0,-0.31343 -0.23663,-0.54176 -0.19304,-0.16813 -0.41929,-0.16813 h -0.0311 q -0.24701,0 -0.4608,0.2138 -0.18682,0.21795 -0.18682,0.49609 z" />
+      <path
+         id="path9134"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 112.98108,104.08531 q 0.2221,0 0.38608,0.0976 l -0.0644,0.30928 h -0.002 q -0.18474,-0.10794 -0.34042,-0.10794 -0.34664,0 -0.48572,0.31966 -0.0311,0.0768 -0.0311,0.15775 v 1.20391 l -0.006,0.006 h -0.27814 l -0.006,-0.006 v -1.93455 l 0.006,-0.006 h 0.27814 l 0.006,0.006 v 0.16813 h 0.002 q 0.0913,-0.12662 0.26777,-0.17851 0.137,-0.0353 0.26777,-0.0353 z" />
+      <path
+         id="path9136"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 113.78022,104.09984 h 0.28645 l 0.002,0.002 v 1.96777 l -0.002,0.002 h -0.28645 l -0.002,-0.002 v -1.96777 z m 0.13492,-1.06691 h 0.0166 q 0.0768,0 0.1453,0.0664 0.054,0.0644 0.054,0.13492 v 0.0104 q 0,0.0893 -0.0747,0.15568 -0.0602,0.0477 -0.12662,0.0477 h -0.0125 q -0.0913,0 -0.15775,-0.081 -0.0436,-0.0581 -0.0436,-0.11831 v -0.0166 q 0,-0.0789 0.0664,-0.1453 0.0643,-0.054 0.13284,-0.054 z" />
+      <path
+         id="path9138"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 115.52382,104.08531 h 0.054 q 0.31966,0 0.6061,0.24701 0.32589,0.31758 0.32589,0.75556 0,0.4442 -0.34249,0.76801 -0.2823,0.23455 -0.61649,0.23455 -0.35909,0 -0.64969,-0.26569 -0.30721,-0.31758 -0.30721,-0.72649 v -0.0249 q 0,-0.40684 0.30513,-0.72235 0.29268,-0.26569 0.62479,-0.26569 z m -0.63932,1.00049 v 0.0104 q 0,0.29267 0.22003,0.51893 0.20134,0.18473 0.44627,0.18473 0.31343,0 0.53554,-0.28644 0.13284,-0.20342 0.13284,-0.4276 0,-0.31343 -0.23663,-0.54176 -0.19304,-0.16813 -0.41929,-0.16813 h -0.0311 q -0.24701,0 -0.46081,0.2138 -0.18681,0.21795 -0.18681,0.49609 z" />
+      <path
+         id="path9140"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 119.59636,103.03293 h 0.28022 l 0.006,0.006 v 3.02846 l -0.006,0.004 h -0.28022 l -0.004,-0.004 v -0.32173 h -0.002 q -0.22418,0.34456 -0.67668,0.34456 v -0.002 l -0.004,0.002 q -0.40269,0 -0.70574,-0.32381 -0.25324,-0.30305 -0.25324,-0.66837 v -0.0249 q 0,-0.39024 0.28022,-0.69744 0.29475,-0.29683 0.70159,-0.29683 0.40892,0 0.65177,0.33627 l 0.006,0.0125 h 0.002 v -1.38865 z m -1.35544,2.04457 v 0.0104 q 0,0.34664 0.27815,0.57497 0.17435,0.13492 0.38815,0.13492 0.45043,0 0.62272,-0.44213 0.0457,-0.12869 0.0457,-0.25738 v -0.0457 q 0,-0.18059 -0.11416,-0.37778 -0.19512,-0.30098 -0.52101,-0.30098 -0.44005,0 -0.63931,0.41514 -0.0602,0.14738 -0.0602,0.28853 z" />
+      <path
+         id="path9142"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 121.28391,104.08116 q 0.42759,0 0.73272,0.37778 0.20135,0.29682 0.20135,0.57912 v 0.0249 q 0,0.0955 -0.0125,0.0955 h -1.57546 q 0,0.0996 0.083,0.28022 0.12454,0.23248 0.3591,0.32381 0.11416,0.0374 0.20549,0.0374 0.28437,0 0.49194,-0.247 0.0726,-0.0996 0.0955,-0.15983 h 0.004 q 0.16813,0.0664 0.26361,0.11208 -0.0457,0.13077 -0.20342,0.30513 -0.28644,0.28022 -0.64969,0.28022 -0.43383,0 -0.74103,-0.37985 -0.20134,-0.28852 -0.20134,-0.61233 v -0.0187 q 0,-0.41514 0.29682,-0.72649 0.27815,-0.27192 0.6497,-0.27192 z m -0.62479,0.79084 h 1.24127 q -0.0872,-0.27191 -0.29475,-0.40061 -0.15152,-0.0976 -0.33003,-0.0976 -0.30306,0 -0.51686,0.2823 -0.0664,0.0976 -0.0996,0.21587 z" />
+      <path
+         id="path9144"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 124.53239,102.99556 h 0.0332 q 0.21173,0 0.4193,0.11002 0.0643,0.0374 0.14114,0.0975 0.0353,0.0291 0.0913,0.0851 0.0789,0.0913 0.11208,0.14737 0.0291,0.0436 0.0457,0.083 v 0.002 l -0.26362,0.12039 q -0.027,-0.0623 -0.10793,-0.1536 -0.19097,-0.20135 -0.45251,-0.20135 h -0.004 q -0.25531,0 -0.42552,0.1536 -0.0623,0.0623 -0.0851,0.0996 -0.0893,0.14322 -0.0893,0.31135 0,0.17852 0.10586,0.27607 0.0789,0.0747 0.18682,0.12247 0.18681,0.0893 0.59365,0.18474 0.10586,0.0291 0.17851,0.0685 0.0893,0.0436 0.18059,0.12454 0.0726,0.0706 0.0934,0.10171 0.0374,0.0498 0.0581,0.0913 0.0996,0.18681 0.0996,0.38608 v 0.006 l 0.002,0.008 -0.002,0.008 v 0.006 q 0,0.21795 -0.11417,0.43175 -0.14737,0.26361 -0.44627,0.38193 -0.17436,0.0644 -0.33834,0.0644 h -0.0353 q -0.2055,0 -0.41929,-0.10171 -0.0685,-0.0353 -0.14738,-0.0934 -0.11624,-0.0893 -0.20757,-0.20965 -0.0664,-0.0934 -0.11001,-0.18058 -0.0374,-0.0789 -0.0374,-0.083 0.008,-0.004 0.26777,-0.11209 0.0436,0.10171 0.10379,0.18681 0.0228,0.0353 0.0913,0.10586 0.0851,0.081 0.1453,0.11002 0.15568,0.0872 0.32796,0.0872 h 0.0104 q 0.20134,0 0.37778,-0.11832 0.0394,-0.0249 0.0934,-0.0809 0.083,-0.0955 0.11832,-0.2138 0.0291,-0.0955 0.0291,-0.18474 v -0.006 q 0,-0.21795 -0.14738,-0.36948 -0.0768,-0.0664 -0.12246,-0.0851 -0.0291,-0.0187 -0.0872,-0.0374 -0.0415,-0.0145 -0.2138,-0.056 -0.34457,-0.0893 -0.52516,-0.18681 -0.40061,-0.21173 -0.40061,-0.62479 v -0.0166 q 0,-0.26154 0.15568,-0.48987 0.0249,-0.0374 0.0913,-0.10793 0.0768,-0.0726 0.13077,-0.10379 0.0872,-0.0581 0.19512,-0.0955 0.15775,-0.0498 0.30305,-0.0498 z" />
+      <path
+         id="path9146"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 126.6849,104.08116 q 0.4276,0 0.73273,0.37778 0.20134,0.29682 0.20134,0.57912 v 0.0249 q 0,0.0955 -0.0125,0.0955 H 126.031 q 0,0.0996 0.083,0.28022 0.12454,0.23248 0.3591,0.32381 0.11416,0.0374 0.20549,0.0374 0.28438,0 0.49195,-0.247 0.0726,-0.0996 0.0955,-0.15983 h 0.004 q 0.16813,0.0664 0.26362,0.11208 -0.0457,0.13077 -0.20342,0.30513 -0.28645,0.28022 -0.6497,0.28022 -0.43382,0 -0.74103,-0.37985 -0.20134,-0.28852 -0.20134,-0.61233 v -0.0187 q 0,-0.41514 0.29683,-0.72649 0.27814,-0.27192 0.64969,-0.27192 z m -0.62479,0.79084 h 1.24128 q -0.0872,-0.27191 -0.29475,-0.40061 -0.15153,-0.0976 -0.33004,-0.0976 -0.30305,0 -0.51685,0.2823 -0.0664,0.0976 -0.0996,0.21587 z" />
+      <path
+         id="path9150"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 130.34438,104.09984 h 0.27814 l 0.006,0.006 v 1.24127 q 0,0.32381 0.34872,0.41514 0.0685,0.0187 0.23455,0.0187 0.21172,0 0.31758,-0.056 0.15983,-0.0768 0.2138,-0.2138 0.027,-0.0955 0.027,-0.18681 v -1.21844 l 0.004,-0.006 h 0.28022 l 0.006,0.006 v 1.93041 l -0.006,0.006 h -0.28022 l -0.004,-0.006 v -0.19305 q -0.22833,0.22833 -0.57497,0.22833 -0.37156,0 -0.57705,-0.15775 -0.28022,-0.2138 -0.28022,-0.55837 v -1.24957 z" />
+      <path
+         id="path9152"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 133.52228,104.08531 q 0.2221,0 0.38608,0.0976 l -0.0643,0.30928 h -0.002 q -0.18474,-0.10794 -0.34042,-0.10794 -0.34664,0 -0.48571,0.31966 -0.0311,0.0768 -0.0311,0.15775 v 1.20391 l -0.006,0.006 h -0.27815 l -0.006,-0.006 v -1.93455 l 0.006,-0.006 h 0.27815 l 0.006,0.006 v 0.16813 h 0.002 q 0.0913,-0.12662 0.26776,-0.17851 0.137,-0.0353 0.26777,-0.0353 z" />
+      <path
+         id="path9154"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 134.32143,104.09984 h 0.28645 l 0.002,0.002 v 1.96777 l -0.002,0.002 h -0.28645 l -0.002,-0.002 v -1.96777 z m 0.13492,-1.06691 h 0.0166 q 0.0768,0 0.1453,0.0664 0.054,0.0644 0.054,0.13492 v 0.0104 q 0,0.0893 -0.0747,0.15568 -0.0602,0.0477 -0.12662,0.0477 h -0.0125 q -0.0913,0 -0.15776,-0.081 -0.0436,-0.0581 -0.0436,-0.11831 v -0.0166 q 0,-0.0789 0.0664,-0.1453 0.0643,-0.054 0.13285,-0.054 z" />
+      <path
+         id="path9156"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 136.7936,103.03293 h 0.28022 l 0.006,0.006 v 3.02846 l -0.006,0.004 h -0.28022 l -0.004,-0.004 v -0.32173 h -0.002 q -0.22417,0.34456 -0.67668,0.34456 v -0.002 l -0.004,0.002 q -0.40269,0 -0.70574,-0.32381 -0.25324,-0.30305 -0.25324,-0.66837 v -0.0249 q 0,-0.39024 0.28022,-0.69744 0.29475,-0.29683 0.70159,-0.29683 0.40892,0 0.65177,0.33627 l 0.006,0.0125 h 0.002 v -1.38865 z m -1.35544,2.04457 v 0.0104 q 0,0.34664 0.27815,0.57497 0.17436,0.13492 0.38815,0.13492 0.45043,0 0.62272,-0.44213 0.0457,-0.12869 0.0457,-0.25738 v -0.0457 q 0,-0.18059 -0.11416,-0.37778 -0.19512,-0.30098 -0.52101,-0.30098 -0.44005,0 -0.63931,0.41514 -0.0602,0.14738 -0.0602,0.28853 z" />
+      <path
+         id="path9158"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 138.56833,104.07908 q 0.40891,0 0.65177,0.33627 l 0.006,0.0125 h 0.002 v -0.32381 l 0.004,-0.006 h 0.28022 l 0.006,0.006 v 1.96154 l -0.006,0.006 h -0.28022 l -0.004,-0.006 v -0.31965 h -0.002 q -0.22418,0.34456 -0.67668,0.34456 v -0.002 l -0.004,0.002 q -0.40268,0 -0.70574,-0.32381 -0.25323,-0.30305 -0.25323,-0.66837 v -0.0249 q 0,-0.39024 0.28022,-0.69744 0.29475,-0.29683 0.70159,-0.29683 z m -0.69121,0.99842 v 0.0104 q 0,0.34664 0.27814,0.57497 0.17436,0.13492 0.38816,0.13492 0.45043,0 0.62271,-0.44213 0.0457,-0.12869 0.0457,-0.25738 v -0.0457 q 0,-0.18059 -0.11417,-0.37778 -0.19511,-0.30098 -0.521,-0.30098 -0.44005,0 -0.63932,0.41514 -0.0602,0.14738 -0.0602,0.28853 z" />
+      <path
+         id="path9160"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 141.67566,103.03293 h 0.28022 l 0.006,0.006 v 3.02846 l -0.006,0.004 h -0.28022 l -0.004,-0.004 v -0.32173 h -0.002 q -0.22418,0.34456 -0.67668,0.34456 v -0.002 l -0.004,0.002 q -0.40268,0 -0.70574,-0.32381 -0.25323,-0.30305 -0.25323,-0.66837 v -0.0249 q 0,-0.39024 0.28022,-0.69744 0.29475,-0.29683 0.70159,-0.29683 0.40891,0 0.65177,0.33627 l 0.006,0.0125 h 0.002 v -1.38865 z m -1.35543,2.04457 v 0.0104 q 0,0.34664 0.27814,0.57497 0.17436,0.13492 0.38816,0.13492 0.45043,0 0.62271,-0.44213 0.0457,-0.12869 0.0457,-0.25738 v -0.0457 q 0,-0.18059 -0.11417,-0.37778 -0.19511,-0.30098 -0.521,-0.30098 -0.44005,0 -0.63932,0.41514 -0.0602,0.14738 -0.0602,0.28853 z" />
+    </g>
+    <g
+       transform="translate(0,0.52916667)"
+       id="g9242">
+      <path
+         id="path9162"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 111.79169,106.71429 h 0.28023 l 0.006,0.006 v 3.02846 l -0.006,0.004 h -0.28023 l -0.004,-0.004 v -0.32173 h -0.002 q -0.22418,0.34457 -0.67668,0.34457 v -0.002 l -0.004,0.002 q -0.40269,0 -0.70575,-0.32382 -0.25323,-0.30305 -0.25323,-0.66837 v -0.0249 q 0,-0.39023 0.28022,-0.69744 0.29475,-0.29683 0.70159,-0.29683 0.40891,0 0.65177,0.33627 l 0.006,0.0125 h 0.002 v -1.38865 z m -1.35543,2.04457 v 0.0104 q 0,0.34664 0.27814,0.57497 0.17436,0.13492 0.38816,0.13492 0.45043,0 0.62271,-0.44213 0.0457,-0.12869 0.0457,-0.25738 v -0.0457 q 0,-0.18059 -0.11417,-0.37778 -0.19511,-0.30098 -0.521,-0.30098 -0.44005,0 -0.63932,0.41515 -0.0602,0.14737 -0.0602,0.28852 z" />
+      <path
+         id="path9164"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 113.47925,107.76252 q 0.42759,0 0.73272,0.37778 0.20134,0.29682 0.20134,0.57912 v 0.0249 q 0,0.0955 -0.0125,0.0955 h -1.57546 q 0,0.0996 0.083,0.28022 0.12454,0.23248 0.35909,0.32381 0.11417,0.0374 0.2055,0.0374 0.28437,0 0.49194,-0.24701 0.0726,-0.0996 0.0955,-0.15983 h 0.004 q 0.16813,0.0664 0.26361,0.11209 -0.0457,0.13077 -0.20342,0.30512 -0.28645,0.28023 -0.6497,0.28023 -0.43382,0 -0.74102,-0.37986 -0.20135,-0.28852 -0.20135,-0.61233 v -0.0187 q 0,-0.41515 0.29683,-0.7265 0.27814,-0.27192 0.6497,-0.27192 z m -0.62479,0.79084 h 1.24127 q -0.0872,-0.27191 -0.29475,-0.40061 -0.15153,-0.0976 -0.33004,-0.0976 -0.30305,0 -0.51685,0.2823 -0.0664,0.0976 -0.0996,0.21587 z" />
+      <path
+         id="path9166"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 115.95557,106.71429 h 0.28644 l 0.002,0.002 v 3.03469 l -0.002,0.002 h -0.28644 l -0.002,-0.002 v -3.03469 z" />
+      <path
+         id="path9168"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 117.73237,107.76044 q 0.40892,0 0.65177,0.33627 l 0.006,0.0125 h 0.002 v -0.32381 l 0.004,-0.006 h 0.28022 l 0.006,0.006 v 1.96155 l -0.006,0.006 h -0.28022 l -0.004,-0.006 v -0.31966 h -0.002 q -0.22418,0.34457 -0.67668,0.34457 v -0.002 l -0.004,0.002 q -0.40269,0 -0.70574,-0.32382 -0.25324,-0.30305 -0.25324,-0.66837 v -0.0249 q 0,-0.39023 0.28022,-0.69744 0.29475,-0.29683 0.70159,-0.29683 z m -0.69121,0.99842 v 0.0104 q 0,0.34664 0.27815,0.57497 0.17436,0.13492 0.38815,0.13492 0.45043,0 0.62272,-0.44213 0.0457,-0.12869 0.0457,-0.25738 v -0.0457 q 0,-0.18059 -0.11416,-0.37778 -0.19512,-0.30098 -0.52101,-0.30098 -0.44005,0 -0.63931,0.41515 -0.0602,0.14737 -0.0602,0.28852 z" />
+      <path
+         id="path9170"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 120.41211,106.71429 h 0.95275 q 0.43797,0 0.75971,0.34872 0.23248,0.29267 0.23248,0.62686 v 0.0311 q 0,0.40268 -0.32381,0.72027 -0.17436,0.1453 -0.33834,0.19719 l 0.63724,1.10843 -0.002,0.004 h -0.34041 q -0.0145,-0.0145 -0.24701,-0.43382 l -0.3508,-0.62064 h -0.69536 v 1.05031 l -0.006,0.006 h -0.27814 l -0.006,-0.006 v -3.02639 z m 0.28437,0.2906 v 1.39902 h 0.66838 q 0.34249,0 0.57497,-0.29267 0.12662,-0.19097 0.12662,-0.39439 v -0.0249 q 0,-0.31551 -0.27192,-0.53969 -0.19719,-0.14737 -0.43175,-0.14737 z" />
+      <path
+         id="path9172"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 123.54228,107.76252 q 0.42759,0 0.73272,0.37778 0.20135,0.29682 0.20135,0.57912 v 0.0249 q 0,0.0955 -0.0125,0.0955 h -1.57546 q 0,0.0996 0.083,0.28022 0.12454,0.23248 0.3591,0.32381 0.11416,0.0374 0.20549,0.0374 0.28437,0 0.49194,-0.24701 0.0726,-0.0996 0.0955,-0.15983 h 0.004 q 0.16813,0.0664 0.26361,0.11209 -0.0457,0.13077 -0.20342,0.30512 -0.28644,0.28023 -0.64969,0.28023 -0.43383,0 -0.74103,-0.37986 -0.20134,-0.28852 -0.20134,-0.61233 v -0.0187 q 0,-0.41515 0.29682,-0.7265 0.27815,-0.27192 0.6497,-0.27192 z m -0.62479,0.79084 h 1.24127 q -0.0872,-0.27191 -0.29475,-0.40061 -0.15152,-0.0976 -0.33003,-0.0976 -0.30306,0 -0.51686,0.2823 -0.0664,0.0976 -0.0996,0.21587 z" />
+      <path
+         id="path9174"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="M 126.48978,106.71429 H 126.77 l 0.006,0.006 v 3.02846 l -0.006,0.004 h -0.28022 l -0.004,-0.004 v -0.32173 h -0.002 q -0.22418,0.34457 -0.67668,0.34457 v -0.002 l -0.004,0.002 q -0.40268,0 -0.70574,-0.32382 -0.25323,-0.30305 -0.25323,-0.66837 v -0.0249 q 0,-0.39023 0.28022,-0.69744 0.29475,-0.29683 0.70159,-0.29683 0.40891,0 0.65177,0.33627 l 0.006,0.0125 h 0.002 v -1.38865 z m -1.35543,2.04457 v 0.0104 q 0,0.34664 0.27814,0.57497 0.17436,0.13492 0.38816,0.13492 0.45043,0 0.62271,-0.44213 0.0457,-0.12869 0.0457,-0.25738 v -0.0457 q 0,-0.18059 -0.11417,-0.37778 -0.19511,-0.30098 -0.521,-0.30098 -0.44005,0 -0.63932,0.41515 -0.0602,0.14737 -0.0602,0.28852 z" />
+      <path
+         id="path9176"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 129.71751,106.71429 h 0.0249 q 0.52723,0 0.95275,0.42967 0.18889,0.22418 0.23455,0.34042 -0.24908,0.12869 -0.25738,0.12869 -0.054,-0.10379 -0.14115,-0.21587 -0.34665,-0.39231 -0.795,-0.39231 h -0.0125 q -0.46911,0 -0.81576,0.41929 -0.26984,0.36325 -0.26984,0.79915 v 0.0207 q 0,0.50648 0.3508,0.89256 0.32588,0.32588 0.74518,0.32588 0.45873,0 0.80745,-0.40476 0.0851,-0.11624 0.13492,-0.21172 l 0.25531,0.13284 q -0.0477,0.12455 -0.25116,0.36118 -0.41929,0.41306 -0.95483,0.41306 -0.57082,0 -1.00672,-0.47741 -0.37155,-0.46288 -0.37155,-1.03163 v -0.0207 q 0,-0.62479 0.4359,-1.09805 0.41722,-0.41099 0.93407,-0.41099 z" />
+      <path
+         id="path9178"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 131.39261,106.71429 h 0.27814 l 0.006,0.006 v 1.28487 q 0.23455,-0.22833 0.57289,-0.22833 0.60611,0 0.8033,0.43797 0.056,0.13285 0.056,0.28853 v 1.24335 l -0.004,0.006 h -0.28022 l -0.006,-0.006 v -1.24128 q 0,-0.34249 -0.37986,-0.42344 -0.0519,-0.0125 -0.15568,-0.0125 h -0.083 q -0.34872,0 -0.48572,0.24286 -0.0374,0.0976 -0.0374,0.21172 v 1.2226 l -0.006,0.006 h -0.27814 l -0.006,-0.006 v -3.02639 z" />
+      <path
+         id="path9180"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 133.75684,107.7812 h 0.28644 l 0.002,0.002 v 1.96777 l -0.002,0.002 h -0.28644 l -0.002,-0.002 v -1.96777 z m 0.13492,-1.06691 h 0.0166 q 0.0768,0 0.1453,0.0664 0.054,0.0644 0.054,0.13492 v 0.0104 q 0,0.0893 -0.0747,0.15568 -0.0602,0.0477 -0.12662,0.0477 h -0.0125 q -0.0913,0 -0.15775,-0.081 -0.0436,-0.0581 -0.0436,-0.11832 v -0.0166 q 0,-0.0789 0.0664,-0.1453 0.0644,-0.054 0.13285,-0.054 z" />
+      <path
+         id="path9182"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 134.70336,106.71429 h 0.28645 l 0.002,0.002 v 3.03469 l -0.002,0.002 h -0.28645 l -0.002,-0.002 v -3.03469 z" />
+      <path
+         id="path9184"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 136.39299,107.76252 q 0.42759,0 0.73272,0.37778 0.20134,0.29682 0.20134,0.57912 v 0.0249 q 0,0.0955 -0.0125,0.0955 h -1.57546 q 0,0.0996 0.083,0.28022 0.12454,0.23248 0.35909,0.32381 0.11417,0.0374 0.2055,0.0374 0.28437,0 0.49194,-0.24701 0.0726,-0.0996 0.0955,-0.15983 h 0.004 q 0.16813,0.0664 0.26361,0.11209 -0.0457,0.13077 -0.20342,0.30512 -0.28645,0.28023 -0.6497,0.28023 -0.43382,0 -0.74102,-0.37986 -0.20135,-0.28852 -0.20135,-0.61233 v -0.0187 q 0,-0.41515 0.29683,-0.7265 0.27814,-0.27192 0.6497,-0.27192 z m -0.62479,0.79084 h 1.24127 q -0.0872,-0.27191 -0.29475,-0.40061 -0.15153,-0.0976 -0.33004,-0.0976 -0.30305,0 -0.51685,0.2823 -0.0664,0.0976 -0.0996,0.21587 z" />
+      <path
+         id="path9186"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 138.66381,107.7812 h 0.0353 q 0.58327,0 0.78462,0.44628 0.0519,0.13284 0.0519,0.27814 v 1.24128 l -0.006,0.006 h -0.28022 l -0.004,-0.006 v -1.24128 q 0,-0.30513 -0.31343,-0.40684 -0.0727,-0.027 -0.28437,-0.027 -0.25947,0 -0.38816,0.10794 -0.15568,0.10171 -0.15568,0.34249 v 1.22467 l -0.006,0.006 H 137.819 l -0.006,-0.006 v -1.93041 l 0.006,-0.006 h 0.27814 l 0.006,0.006 v 0.19304 q 0.22833,-0.22833 0.56044,-0.22833 z" />
+      <path
+         id="path9188"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25105px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.106276"
+         d="m 141.01559,107.76044 q 0.40891,0 0.65177,0.33627 l 0.006,0.0125 h 0.002 v -0.32381 l 0.004,-0.006 h 0.28022 l 0.006,0.006 v 1.96155 l -0.006,0.006 h -0.28022 l -0.004,-0.006 v -0.31966 h -0.002 q -0.22418,0.34457 -0.67668,0.34457 v -0.002 l -0.004,0.002 q -0.40269,0 -0.70574,-0.32382 -0.25324,-0.30305 -0.25324,-0.66837 v -0.0249 q 0,-0.39023 0.28022,-0.69744 0.29475,-0.29683 0.70159,-0.29683 z m -0.69121,0.99842 v 0.0104 q 0,0.34664 0.27814,0.57497 0.17436,0.13492 0.38816,0.13492 0.45043,0 0.62271,-0.44213 0.0457,-0.12869 0.0457,-0.25738 v -0.0457 q 0,-0.18059 -0.11417,-0.37778 -0.19511,-0.30098 -0.521,-0.30098 -0.44005,0 -0.63932,0.41515 -0.0602,0.14737 -0.0602,0.28852 z" />
+    </g>
+    <g
+       id="g8237"
+       transform="matrix(3.0629797,0,0,3.0629797,-186.52189,-168.9012)">
+      <path
+         d="m 99.133862,84.181133 h 0.0078 q 0.754671,0 1.324578,0.590725 0.50485,0.577714 0.50485,1.314169 0,0.806717 -0.59593,1.407852 -0.554294,0.497042 -1.233498,0.497042 -0.681807,0 -1.228293,-0.486633 -0.242015,-0.249822 -0.312277,-0.385142 -0.294062,-0.476224 -0.294062,-1.030517 v -0.01041 q 0,-0.806717 0.603737,-1.410454 l 0.174355,-0.143128 q 0.486633,-0.343505 1.048733,-0.343505 z m -1.327181,1.902292 q 0,0.616748 0.468417,1.069551 0.385143,0.333096 0.866571,0.333096 0.624555,0 1.053941,-0.551691 0.27064,-0.395551 0.27064,-0.827536 v -0.03383 q 0,-0.533474 -0.37213,-0.962856 -0.416375,-0.429382 -0.952451,-0.429382 -0.601135,0 -1.030517,0.512656 -0.304471,0.411166 -0.304471,0.889992 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.32954px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.133238"
+         id="path8178" />
+      <path
+         d="m 102.68602,84.136893 h 0.0442 q 0.29666,0 0.58292,0.143128 0.0911,0.04944 0.17956,0.114502 0.0442,0.03123 0.14052,0.119706 0.10149,0.109297 0.14573,0.176957 0.039,0.05725 0.0703,0.114502 l -0.45281,0.223799 q -0.0208,-0.04684 -0.0989,-0.13532 -0.23941,-0.255027 -0.59332,-0.255027 -0.34871,0 -0.56471,0.205583 -0.0807,0.08848 -0.10149,0.140525 -0.0624,0.119706 -0.0624,0.24722 v 0.01822 q 0,0.17956 0.13272,0.278448 0.0598,0.04684 0.1145,0.07547 0.13532,0.07287 0.40076,0.148332 0.19777,0.05725 0.47622,0.117104 0.15614,0.04424 0.26023,0.09368 0.10149,0.04944 0.21079,0.132718 0.0963,0.08067 0.16915,0.171753 0.20558,0.278448 0.20558,0.616748 v 0.01301 q 0,0.333096 -0.20038,0.632362 -0.0338,0.05465 -0.12231,0.148332 -0.1197,0.109298 -0.19777,0.156139 -0.0833,0.05205 -0.18216,0.09368 -0.27325,0.114502 -0.56471,0.114502 -0.4502,0 -0.82493,-0.265436 -0.0677,-0.05205 -0.14052,-0.119706 -0.1041,-0.104093 -0.14573,-0.161344 -0.0807,-0.109297 -0.12492,-0.192571 -0.0468,-0.08848 -0.052,-0.106695 l 0.4554,-0.210787 q 0.0416,0.09368 0.11451,0.192571 0.0338,0.04944 0.10409,0.117104 0.10149,0.09108 0.16394,0.124911 0.21079,0.117104 0.4424,0.117104 h 0.0182 q 0.23161,0 0.4424,-0.114502 0.0572,-0.03383 0.1197,-0.08848 0.0703,-0.07026 0.1041,-0.127514 0.0885,-0.153536 0.0885,-0.317482 0,-0.265436 -0.22379,-0.426779 -0.0651,-0.04164 -0.11711,-0.06246 -0.0911,-0.04164 -0.28365,-0.07807 -0.54649,-0.124912 -0.79631,-0.255027 -0.55169,-0.273243 -0.55169,-0.827536 0,-0.369529 0.24202,-0.671397 0.0781,-0.09368 0.16654,-0.163946 0.1067,-0.08067 0.18737,-0.122309 0.0885,-0.04684 0.21339,-0.08588 0.20298,-0.05985 0.40596,-0.05985 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.32954px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.133238"
+         id="path8180" />
+      <path
+         d="m 104.59352,84.181133 h 1.25431 q 0.60374,0 1.02531,0.452803 0.29927,0.364324 0.29927,0.801512 0,0.536077 -0.42938,0.926424 -0.23161,0.187367 -0.40596,0.239413 0,0.01301 0.51005,0.882185 l 0.29146,0.499644 -0.005,0.0052 h -0.59073 q -0.0104,0 -0.14313,-0.249822 -0.55169,-0.968061 -0.59072,-1.048733 h -0.72345 v 1.29335 l -0.005,0.0078 h -0.48663 l -0.008,-0.0078 V 84.18894 Z m 0.49183,0.507451 v 1.496331 h 0.7859 q 0.37474,0 0.64538,-0.309676 0.15093,-0.208185 0.15093,-0.424177 v -0.03383 q 0,-0.340903 -0.32789,-0.585521 -0.20298,-0.150934 -0.5647,-0.150934 h -0.68181 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.32954px;line-height:0.85;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.133238"
+         id="path8182" />
+    </g>
+    <g
+       id="g8232"
+       transform="matrix(3.181029,0,0,3.181029,-199.43408,-178.32025)">
+      <g
+         transform="matrix(0.14184756,0,0,0.14184756,79.673237,66.933032)"
+         style="fill:#122233;fill-opacity:1"
+         id="g1160-9">
+        <path
+           id="path1139-7"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4971px;line-height:1.25;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café Bold';letter-spacing:0px;word-spacing:0px;fill:#122233;fill-opacity:1;stroke:none;stroke-width:0.512429"
+           d="m 153.02377,103.81307 h 0.02 q 1.50125,0 2.80233,0.92077 0.2402,0.18015 0.54045,0.47039 0.37031,0.38032 0.49041,0.57048 0.15013,0.20016 0.15013,0.22018 l -1.60134,1.06088 h -0.01 q -0.1101,-0.18015 -0.39033,-0.47039 -0.88074,-0.8407 -2.00167,-0.8407 -1.07089,0 -1.94162,0.78065 -0.32027,0.32027 -0.39033,0.46039 -0.58048,0.82068 -0.58048,1.82152 0,1.0809 0.69058,1.97164 0.22018,0.26022 0.46038,0.46038 0.80067,0.62052 1.77148,0.62052 0.88073,0 1.64137,-0.54045 0.17014,-0.11009 0.47039,-0.41034 0.17014,-0.20017 0.29024,-0.39033 h 0.01 l 1.61134,1.06089 q -0.17014,0.27022 -0.46038,0.6005 -0.34028,0.37031 -0.4804,0.47039 -0.33028,0.27023 -0.57048,0.42035 -1.19099,0.7206 -2.47206,0.7206 h -0.0901 q -1.37115,0 -2.61218,-0.81067 -0.2402,-0.17014 -0.44037,-0.33028 -0.37031,-0.34028 -0.55046,-0.56047 -0.40033,-0.49041 -0.57048,-0.82068 -0.19015,-0.32027 -0.3703,-0.85071 -0.26022,-0.81068 -0.26022,-1.53128 v -0.16013 q 0,-1.12094 0.55046,-2.25188 0.17014,-0.31026 0.39032,-0.64053 0.17014,-0.2302 0.51043,-0.60051 0.40033,-0.38031 0.69057,-0.58048 1.25105,-0.8407 2.70226,-0.8407 z" />
+        <path
+           id="path1141-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4971px;line-height:1.25;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café Bold';letter-spacing:0px;word-spacing:0px;fill:#122233;fill-opacity:1;stroke:none;stroke-width:0.512429"
+           d="m 158.20063,98.898969 h 1.9116 l 0.01,0.01001 v 14.632201 l -0.01,0.01 h -1.9116 l -0.01,-0.01 V 98.908977 Z" />
+      </g>
+      <g
+         transform="matrix(0.14184756,0,0,0.14184756,80.968439,63.84818)"
+         id="g1406-6">
+        <path
+           id="path1143-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4971px;line-height:1.25;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café Bold';letter-spacing:0px;word-spacing:0px;fill:#288fbe;fill-opacity:1;stroke:none;stroke-width:0.512429"
+           d="m 157.19904,125.56073 h 0.02 q 1.50126,0 2.80234,0.92077 0.2402,0.18015 0.54045,0.47039 0.37031,0.38032 0.49041,0.57048 0.15013,0.20016 0.15013,0.22018 l -1.60134,1.06088 h -0.01 q -0.11009,-0.18015 -0.39032,-0.47039 -0.88074,-0.8407 -2.00167,-0.8407 -1.0709,0 -1.94162,0.78065 -0.32027,0.32027 -0.39033,0.46039 -0.58048,0.82068 -0.58048,1.82152 0,1.0809 0.69057,1.97164 0.22019,0.26022 0.46039,0.46038 0.80067,0.62052 1.77148,0.62052 0.88073,0 1.64136,-0.54045 0.17015,-0.11009 0.4704,-0.41034 0.17014,-0.20017 0.29024,-0.39033 h 0.01 l 1.61134,1.06089 q -0.17014,0.27022 -0.46038,0.6005 -0.34029,0.37031 -0.4804,0.47039 -0.33028,0.27023 -0.57048,0.42035 -1.19099,0.7206 -2.47206,0.7206 h -0.0901 q -1.37114,0 -2.61218,-0.81067 -0.2402,-0.17014 -0.44036,-0.33028 -0.37031,-0.34028 -0.55046,-0.56047 -0.40034,-0.49041 -0.57048,-0.82068 -0.19016,-0.32027 -0.37031,-0.85071 -0.26021,-0.81068 -0.26021,-1.53128 v -0.16013 q 0,-1.12094 0.55045,-2.25188 0.17015,-0.31026 0.39033,-0.64053 0.17014,-0.2302 0.51043,-0.60051 0.40033,-0.38031 0.69057,-0.58048 1.25105,-0.8407 2.70226,-0.8407 z" />
+        <path
+           id="path1145-2"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4971px;line-height:1.25;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café Bold';letter-spacing:0px;word-spacing:0px;fill:#288fbe;fill-opacity:1;stroke:none;stroke-width:0.512429"
+           d="m 163.66698,129.31386 h 4.85405 v -0.01 q -0.17015,-0.51042 -0.78066,-1.16097 -0.76063,-0.65054 -1.66138,-0.65054 -1.37115,0 -2.25188,1.45121 z m 2.2819,-3.75313 h 0.29024 q 1.46122,0 2.81235,1.17098 0.66055,0.65054 0.91076,1.12093 0.73061,1.29108 0.73061,2.70226 v 0.30025 q 0,0.28023 -0.04,0.28023 h -7.16597 q 0.23019,1.07089 0.76063,1.60134 0.81068,0.87072 1.84154,0.87072 1.30108,0 2.18182,-1.31109 0.17014,-0.33028 0.20016,-0.34029 1.72144,0.78066 1.74146,0.80067 -0.14012,0.35029 -0.63053,1.05088 -1.47123,1.73144 -3.4729,1.73144 h -0.04 q -2.06172,0 -3.54296,-1.83152 -1.02085,-1.4312 -1.02085,-3.13262 v -0.04 q 0,-2.34196 1.7915,-3.96331 1.3211,-1.01084 2.65221,-1.01084 z" />
+        <path
+           id="path1147-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4971px;line-height:1.25;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café Bold';letter-spacing:0px;word-spacing:0px;fill:#288fbe;fill-opacity:1;stroke:none;stroke-width:0.512429"
+           d="m 176.15994,125.6508 h 0.25021 q 0.99083,0 2.05171,0.58049 v 0.01 q -0.42035,1.90158 -0.46038,1.99166 -0.9608,-0.63053 -1.70142,-0.63053 h -0.16013 q -0.9608,0 -1.69141,0.71059 -0.55046,0.67056 -0.55046,2.54213 v 4.40367 l -0.02,0.03 h -1.87156 l -0.03,-0.03 v -9.39784 l 0.03,-0.02 h 1.87156 l 0.02,0.02 v 0.7206 q 1.10092,-0.93078 2.26188,-0.93078 z" />
+        <path
+           id="path1149-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4971px;line-height:1.25;font-family:'Louis George Café';-inkscape-font-specification:'Louis George Café Bold';letter-spacing:0px;word-spacing:0px;fill:#288fbe;fill-opacity:1;stroke:none;stroke-width:0.512429"
+           d="m 180.57363,120.64663 h 1.9216 l 0.01,0.01 v 5.04421 h 2.48207 l 0.01,0.01 v 1.92161 l -0.01,0.01 h -2.48207 v 4.83403 q 0,0.56047 0.38032,0.75062 0.26021,0.14012 0.54045,0.14012 0.39032,0 1.11092,-0.26022 l 0.0801,-0.04 0.7206,1.81151 q -0.2402,0.10009 -0.78065,0.26022 -0.64053,0.16013 -1.12093,0.16013 h -0.02 q -0.95079,0 -1.78149,-0.58048 -0.14011,-0.10008 -0.37031,-0.32027 l -0.17014,-0.22018 q -0.16013,-0.21018 -0.25021,-0.41034 -0.27022,-0.61051 -0.27022,-1.22102 v -4.90409 h -1.42119 l -0.01,-0.01 v -1.92161 l 0.01,-0.01 h 1.42119 z" />
+      </g>
+    </g>
+  </g>
+</svg>

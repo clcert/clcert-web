@@ -1,0 +1,3 @@
+[submodule "themes/foundation-theme"]
+	path = themes/foundation-theme
+	url = https://github.com/hdcdstr8fwd/foundation-theme
