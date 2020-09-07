@@ -1,0 +1,15 @@
+nombre: "Tesistas"
+tamano: 3
+integrantes:
+    - nombre: Constanza Csori
+      cargo: Tesista (Magíster) 2017-2019
+      foto: ccsori.png
+    - nombre: Eduardo Acha
+      cargo: Tesista (Magíster)
+      foto: eacha.png
+    - nombre: Juan Rojas
+      cargo: Tesista (Magíster) 2018-2020
+      foto: jrojas.png
+    - nombre: Alonso Reyes
+      cargo: Tesista (Magíster) 2019-2020
+      foto: areyes.png

@@ -1,0 +1,11 @@
+nombre: Proyectos Actuales
+proyectos:
+  - nombre: Random UChile
+    imagen: randomuchile.svg
+    url: https://random.uchile.cl
+    descripcion: "Aleatoriedad pública y verificable"
+    destacado: true
+  - nombre: Observatorio de Seguridad de la Red
+    imagen: osr.svg
+    url:  https://osr.cl
+    descripcion: "Observatorio de Seguridad de la Red Chilena"

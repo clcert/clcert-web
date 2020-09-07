@@ -1,0 +1,8 @@
+nombre: "Practicantes"
+tamano: 3
+integrantes:
+    - nombre: "Alejandro González"
+      cargo: "Practicante 2018-2019"
+      foto: "agonzalez.png"
+      bio: |-
+        Integrante del proyecto Random UChile

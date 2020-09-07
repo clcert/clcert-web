@@ -8,11 +8,10 @@ Usando alguna de las siguientes alternativas:
 * **Texto (castellano)**: `CLCERT - Laboratorio de Criptografía Aplicada y Ciberseguridad`
 * **Texto (otro idioma)**: `CLCERT - Applied Cryptography and Cybersecurity Laboratory`
 
-# Logo CLCERT Fondo Claro (SVG)
+## Logo CLCERT Fondo Claro
 
-![Logo CLCERT fondo claro](/img/logo.svg)
+{{< figure src="/img/logo.svg" class="centered">}}
 
-# Logo CLCERT Fondo Oscuro (SVG)
+## Logo CLCERT Fondo Oscuro
 
-![Logo CLCERT fondo oscuro](/img/logo_dark.svg)
-{::nomarkdown}</div>{:/}
+{{< figure src="/img/logo_dark.svg" class="dark-bg centered">}}

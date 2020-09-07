@@ -1,0 +1,21 @@
+nombre: "Memoristas"
+tamano: 3
+integrantes:
+    - nombre: Sergio Leiva
+      cargo: Memorista 2019
+      foto: sleiva.png
+    - nombre: Franco Pino
+      cargo: Memorista 2019
+      foto: fpino.png
+    - nombre: Diego Vargas
+      cargo: Memorista 2020
+      foto: dvargas.png
+    - nombre: Ilana Mergudich
+      cargo: Tesista 2020
+      foto: imergudich.png
+    - nombre: Kyra Cossio
+      cargo: Memorista 2020
+      foto: kcossio.png
+    - nombre: Guillermo Pilleux
+      cargo: Memorista 2020
+      foto: gpilleaux.png
