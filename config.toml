@@ -1,6 +1,6 @@
 baseurl = "https://users.dcc.uchile.cl/~eriveros/clcert/nuevositio/"
 author = "CLCERT Universidad de Chile"
-title = "CLCERT"
+title = "Laboratorio de Criptografía Aplicada y Ciberseguridad - CLCERT"
 languageCode = "es-cl"
 theme = "clcert-lab"
 enableRobotsTXT = true
