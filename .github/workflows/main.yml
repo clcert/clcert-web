@@ -25,4 +25,4 @@ jobs:
     - name: Setup known_hosts
       run: echo '${{secrets.KNOWN_HOSTS}}' >> ~/.ssh/known_hosts
     - name: Sync project files
-      run: rsync -avzr --delete ${GITHUB_WORKSPACE}/public webmast@clcert.cl:/home/webmast/test
+      run: scp ${GITHUB_WORKSPACE}/public webmast@clcert.cl:/home/webmast/test
