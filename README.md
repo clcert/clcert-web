@@ -138,7 +138,4 @@ Dentro de la carpeta `content/`, todo lo que no es `humor` y `blog`corresponde a
 Las estadísticas fueron retiradas del sitio principal del CLCERT, ya que serán manejadas por el sitio del OSR.
 
  # Por hacer en el sitio
-  - Actualizar la historia (no se toca desde 2007)
-  - Completar info de integrantes
-  - Automatizar el deployment del sitio cada vez que se modifica algo
   - Mejorar la visualización en móvil

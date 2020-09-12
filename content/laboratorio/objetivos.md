@@ -18,4 +18,4 @@ CLCERT promueve el uso de Internet, los sistemas computacionales abiertos, y las
 
 ## Inserción Institucional
 
-El CLCERT, desde sus inicios, ha sido parte de la [Facultad de Ciencias Físicas y Matemáticas](https://www.fcfm.uchile.cl/) de la [Universidad de Chile](https://www.uchile.cl/).
+El CLCERT, desde sus inicios, ha sido parte de la [Facultad de Ciencias Físicas y Matemáticas](https://ingeniería.uchile.cl/) de la [Universidad de Chile](https://www.uchile.cl/).
