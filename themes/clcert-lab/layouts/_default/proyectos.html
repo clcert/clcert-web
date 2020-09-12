@@ -1,0 +1,45 @@
+{{ define "main" }}
+	<div class="row-x">
+		<div class="small-12 medium-12 cell">
+			<p> {{ .Content }} </p>
+		</div>
+	</div>	
+	{{ $first := true }}
+	<div class="cell">
+		<ul class="tabs" data-tabs data-deep-link="true" data-update-history="true" id="projects-tabs">
+			{{ range $id, $grupo := .Site.Data.proyectos }}
+			<li class="tabs-title {{ if $first }}is-active{{end}}"><a data-tabs-target="cat_{{$id}}" {{ if $first }}aria-selected="true"{{end}}>{{$grupo.nombre}}</a></li>
+			{{ $first = false }}
+			{{ end }}
+		</ul>
+		  <div class="tabs-content" data-tabs-content="projects-tabs">
+			{{ $first := true }}
+			{{ range $id, $grupo := .Site.Data.proyectos }}
+			<div class="tabs-panel {{ if $first }}is-active{{end}} grid-container" id="cat_{{$id}}">
+				<div class="grid-x grid-margin-x small-up-1 medium-up-3">
+					{{ range $grupo.proyectos}}
+						{{ if (not .oculto) }}
+							<div class="image-hover-wrapper cell">
+								<a href="{{.url}}">
+								<div class="proyecto-img-helper">
+									<img src="{{ $.Site.BaseURL }}/img/proyectos/{{ .imagen }}">
+								</div>
+								<span class="image-hover-wrapper-reveal">
+								<h3>{{ .nombre }}</h3>
+									<p>{{ .descripcion }}</p>
+								</span>
+								</a>
+							</div>
+						{{ end }}				  
+					{{ end }}				  
+				</div>
+				{{ $first = false }}
+			</div>
+			{{ end }}					
+		</div>	
+	</div>
+{{ end }}
+  
+  
+  
+  

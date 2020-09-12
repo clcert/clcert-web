@@ -1,0 +1,36 @@
+{{ define "main" }}
+	<div class="pagination-container">
+		{{ template "_internal/pagination.html" . }}
+	</div>
+	<div class="row-x">
+		<div class="small-12 medium-12 cell">
+			<p> {{ .Content }} </p>
+		</div>
+	</div>	
+	<div class="row-x">
+		{{ range (.Paginator 10).Pages }}
+		<div class="small-12 medium-12 cell">
+			<h1> {{.Title}} </h1>
+			<p><i>{{ dateFormat "02-01-2006" .Date }}</i></p>
+			{{ if .Params.image }}
+			<div class="humor-image">
+				<img src="{{.Site.BaseURL}}/img/humor/{{.Params.image}}" alt="{{.Title}}">
+			</div>
+			{{ end }}
+			{{ if .Content }}
+			<div class="humor-content">
+				{{.Content}}
+			</div>
+			{{ end }}
+			<p class="humor-source"><b>Fuente: </b><i></i>{{ if .Params.creditName }}<a href="{{.Params.creditLink}}">{{ .Params.creditName }}</a>{{ else }}Desconocida{{ end }}</i></p>
+		</div>
+		{{ end }}
+	</div>	
+	<div class="pagination-container">
+		{{ template "_internal/pagination.html" . }}
+	</div>
+{{ end }}
+  
+  
+  
+  

@@ -1,0 +1,59 @@
+{{ define "header" }}
+	{{ partial "hero.html" . }}
+{{ end }}
+{{ define "main" }}		
+	<div class="grid-x grid-margin-x">
+		<div class="small-12 medium-12 cell small-centered">
+			<h1 class="section-title">Proyectos y Alianzas Destacadas</h1>
+			<div class="grid-x grid-margin-x small-up-1 medium-up-3">
+			{{ range $id, $grupo := .Site.Data.proyectos }}
+				{{ range $grupo.proyectos}}
+					{{ if (and .destacado (not .oculto)) }}
+						<div class="image-hover-wrapper cell">
+							<a href="{{.url}}">
+							<div class="proyecto-img-helper">
+								<img src="{{ $.Site.BaseURL }}/img/proyectos/{{ .imagen }}">
+							</div>
+							<span class="image-hover-wrapper-reveal">
+							<h3>{{ .nombre }}</h3>
+								<p>{{ .descripcion }}</p>
+							</span>
+							</a>
+						</div>
+					{{ end }}				  
+				{{end}}
+			{{ else }}
+				<p>No hay proyectos para mostrar</p>
+			{{end}}
+			</div>
+		</div>
+		<div class="small-12 cell small-centered">
+			<h1 class="section-title">Blog</h1>
+			{{ $posts := first 3 (where .Site.RegularPages "Type" "blog")}}
+			<div class="grid-x grid-margin-x small-up-1 medium-up-2 large-up-3">
+			{{ range $posts }}
+				{{partial "blog_post.html" .}}
+			{{ else }}
+				<p>No hay entradas de blog recientes</p>
+			{{ end }}
+			</div>
+		</div>
+		<div class="small-12 medium-4 cell small-centered">
+			<h3 class="section-title">Membresías</h3>
+			<a href="https://first.org"><img class="logos first-logo" src="{{.Site.BaseURL}}/img/logo-first.png"></a>
+		</div>
+		<div class="small-12 medium-8 cell small-centered">
+			<h3 class="section-title">Patrocinadores</h3>
+			<div class="grid-x grid-margin-x ">
+				<div class="cell small-12 medium-6 ">
+					<a href="https://www.cmm.uchile.cl"><img class="logos cmm-logo" src="{{.Site.BaseURL}}/img/logo-cmm.svg"></a>
+				</div>
+				<div class="cell small-12 medium-6">
+					<a href="https://dcc.uchile.cl"><img class="logos dcc-logo" src="{{.Site.BaseURL}}/img/logo-dcc.png"></div></a>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+{{ end }}
+

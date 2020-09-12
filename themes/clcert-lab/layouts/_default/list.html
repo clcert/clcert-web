@@ -1,0 +1,26 @@
+{{ define "main" }}
+	<div class="row-x">
+		<div class="small-12 medium-12 cell">
+			<p> {{ .Content }} </p>
+		</div>
+	</div>	
+	<div class="row-x">
+		<div class="small-12 medium-12 cell">
+
+		<div class="pagination-container">
+			{{ template "_internal/pagination.html" . }}
+		</div>	
+		{{ range (.Paginator 10).Pages }}
+			<a href="{{ .Permalink }}"><h1> {{.Title}} </h1></a>
+			<p>{{.Summary}}</p>
+		{{ end }}
+		</div>
+		<div class="pagination-container">
+			{{ template "_internal/pagination.html" . }}
+		</div>	
+	</div>	
+{{ end }}
+  
+  
+  
+  

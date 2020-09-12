@@ -1,0 +1,13 @@
+{{ define "main" }}
+	<div class="row-x">
+		<div class="small-12 medium-12 column content-one">
+			<p> {{ .Content }} </p>
+		</div>
+	</div>
+	<div class="cell">
+		{{ partial "tabbed_list.html" .Pages }}							
+	</div>
+{{ end }}  
+  
+  
+  

@@ -1,0 +1,6 @@
+
+{{ range .Site.Params.js }}
+    {{ with resources.Get . |  minify |  fingerprint }}
+        <script src="{{ .Permalink }}" integrity="{{ .Data.Integrity }}" type="text/javascript"></script>
+    {{ end}}
+{{ end }}

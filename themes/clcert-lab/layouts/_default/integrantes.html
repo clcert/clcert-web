@@ -1,0 +1,66 @@
+{{ define "main" }}
+
+	<div class="grid-x grid-padding-x">
+		<div class="cell small-12 medium-12">
+			<p> {{ .Content }} </p>
+		</div>
+		{{ $first := true }}
+		<div class="cell">
+			<ul class="tabs" data-tabs data-deep-link="true" data-update-history="true" id="members-tabs">
+				{{ range $id, $grupo := .Site.Data.integrantes }}
+				<li class="tabs-title {{ if $first }}is-active{{end}}"><a data-tabs-target="cat_{{$id}}" {{ if $first }}aria-selected="true"{{end}}>{{$grupo.nombre}}</a></li>
+				{{ $first = false }}
+				{{ end }}
+			</ul>
+			  <div class="tabs-content" data-tabs-content="members-tabs">
+				{{ $first := true }}
+				{{ range $id, $grupo := .Site.Data.integrantes }}
+				<div class="tabs-panel {{ if $first }}is-active{{end}} grid-container" id="cat_{{$id}}">
+					<div class="grid-x grid-padding-x">
+						{{ range $grupo.integrantes }}
+						<div class="cell small-12 medium-{{ (default "4" ($grupo.tamano) )}}">
+
+							<div class="card-user-container">
+								<div class="card-user-avatar">
+								  <img src="{{$.Site.BaseURL}}/img/integrantes/{{.foto}}" alt="{{.nombre}}" class="user-image">
+								</div>
+								<div class="card-user-bio">
+								  <h4>{{.nombre}}</h4>
+								  <p class="card-user-title">{{.cargo}}</p>
+								  <div class="card-user-social">
+									<ul class="menu">
+										{{ if .twitter }}
+										<li>
+										  <a href="https://twitter.com/{{.twitter}}"><i class="fa fa-twitter"></i></a>
+										</li>
+										{{ end }}
+										{{ if .github }}
+										<li>
+										  <a href="https://github.com/{{.github}}"><i class="fa fa-github"></i></a>
+										</li>
+										{{ end }}
+										{{ if .web }}
+										<li>
+										  <a href="{{.web}}"><i class="fa fa-globe"></i></a>
+										</li>
+										{{ end }}
+
+									</ul>
+								  </div>
+								  <p class="card-user-bio">{{.bio}}</p>
+								</div>
+						  
+							  </div>
+						  </div>
+						{{ end }}					
+					</div>
+					{{ $first = false }}
+				</div>
+				{{ end }}
+			  </div>	
+		</div>
+	</div>						
+{{ end }}  
+  
+  
+  

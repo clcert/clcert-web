@@ -1,0 +1,28 @@
+{{ define "main" }}
+	<div class="row-x">
+		<div class="small-12 medium-12 cell">
+			<p> {{ .Content }} </p>
+		</div>
+	</div>	
+	<div class="row-x">
+		<div class="small-12 medium-12 cell">
+			<div class="pagination-container">
+				{{ template "_internal/pagination.html" . }}
+			</div>		
+			<div class="grid-x grid-margin-x small-up-1 medium-up-3 large-up-4">
+				{{ range (.Paginator 10).Pages }}
+					{{partial "blog_post.html" .}}
+				{{ else }}
+					<p>No hay entradas recientes</p>
+				{{ end }}
+			</div>			
+			<div class="pagination-container">
+				{{ template "_internal/pagination.html" . }}
+			</div>
+		</div>	
+	</div>	
+{{ end }}
+  
+  
+  
+  

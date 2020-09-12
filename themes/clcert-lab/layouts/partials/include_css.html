@@ -1,0 +1,6 @@
+
+{{ range .Site.Params.css }}
+    {{ with resources.Get . | toCSS |  minify |  fingerprint }}
+        <link rel="stylesheet" href="{{ .Permalink }}" integrity="{{ .Data.Integrity }}" type="text/css" media="screen">
+    {{ end}}
+{{ end }}

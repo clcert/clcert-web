@@ -1,0 +1,46 @@
+{{ define "main" }}
+
+	<div class="grid-x grid-padding-x">
+		<div class="cell small-12 medium-12">
+			<p> {{ .Content }} </p>
+		</div>
+		{{ $first := true }}
+		<div class="cell">
+			<ul class="tabs" data-tabs data-deep-link="true" data-update-history="true" id="diplomados-tabs">
+				{{ range $anio, $integrantes := .Site.Data.diplomados }}
+				<li class="tabs-title {{ if $first }}is-active{{end}}"><a data-tabs-target="generacion_{{$anio}}" {{ if $first }}aria-selected="true"{{end}}>{{$anio}}</a></li>
+				{{ $first = false }}
+				{{ end }}
+			</ul>
+			  <div class="tabs-content" data-tabs-content="diplomados-tabs">
+				{{ $first := true }}
+				{{ range $anio, $integrantes := .Site.Data.diplomados }}
+				<div class="tabs-panel {{ if $first }}is-active{{end}} grid-container" id="generacion_{{$anio}}">
+					<div class="grid-x small-up-2 medium-up-3">
+					{{ range $integrantes }}				
+					<div class="cell exalumno-container">
+						<div class="exalumno-image">
+						<img src="{{- $.Site.BaseURL -}}/img/diplomados/
+							{{- if .foto -}}
+								{{$anio}}/{{- .foto -}}
+							{{- else -}}	
+								default.png
+							{{- end -}}
+							" alt="{{.nombre}} {{.apellido}}">
+						</div>
+						<div class="exalumno-name">
+							<p>{{.nombre}} {{.apellido}}</p>
+						</div>
+						</div>
+					{{ end }}
+					{{ $first = false }}
+					</div>	
+				</div>
+				{{ end }}
+			  </div>	
+		</div>
+	</div>						
+{{ end }}  
+  
+  
+  

@@ -1,0 +1,12 @@
+<ul class="tabs" data-tabs data-deep-link="true" data-update-history="true" id="nosotros-tabs">
+  {{ range $i, $v := . }}
+    <li class="tabs-title {{ if eq $i 0 }}is-active{{end}}"><a data-tabs-target="{{$v.File.BaseFileName}}" {{ if eq $i 0 }}aria-selected="true"{{end}}>{{$v.Title}}</a></li>
+    {{ end }}
+</ul>
+  <div class="tabs-content" data-tabs-content="nosotros-tabs">
+    {{ range $i, $v := . }}
+    <div class="tabs-panel {{ if eq $i 0 }}is-active{{end}}" id="{{$v.File.BaseFileName}}">
+        {{$v.Content}}
+    </div>
+    {{ end }}
+  </div>

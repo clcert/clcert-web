@@ -1,0 +1,9 @@
+{{ "<!-- BEGIN HERO PANEL -->" | safeHTML }}
+
+<section class="hero-panel">
+	<div class="hero-image" style="	background-image: url('{{.Site.BaseURL}}/img/home_background.jpg')">;
+	</div>
+	<div class="hero-text">
+		<p>{{ .Site.Params.hero.herodescription }} <a href="{{ .Site.BaseURL }}{{ .Site.Params.hero.link }}">Más información</a></p>
+	</div>
+</section> {{ "<!-- END HERO PANEL -->" | safeHTML }}

@@ -1,0 +1,102 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title> {{ .Site.Title }} </title>
+        {{ partial "include_css.html" . }}
+        {{ block "custom_css" . }}
+        {{ end }}
+    </head>
+
+	<body>
+		<div class="off-canvas-wrapper">
+				
+				<div class="off-canvas position-right" id="mobile-menu" data-off-canvas>
+        			<ul>
+						{{ $currentNode := . }}
+						{{ range .Site.Menus.main }}
+          				<li><a class="nav-item{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} active{{end}}" href="{{.URL}}">{{ .Name}}</a></li>
+						{{end}}
+        			</ul>
+				</div>	
+						
+      			<div class="off-canvas-content" data-off-canvas-content>
+										
+					<div class="titlebar show-for-small-only">
+						<div class="mobile-title-bar">
+							<span class="top-bar-center site-logo-mobile">
+								<img src="{{ .Site.BaseURL }}/img/logo_dark.svg" alt="CLCERT">
+							</span>
+							<button class="menu-icon" type="button" data-open="mobile-menu"></button>
+						</div>
+					</div>
+				                    
+{{ "<!-- BEGIN NAV BAR DESKTOP -->" | safeHTML }}
+
+<nav class="top-bar nav-desktop">
+	<div class="top-bar-wrapper wrapper">
+		<div class="top-bar-left">
+			<a href="{{ .Site.BaseURL }}" class="site-logo">
+				<img src="{{ .Site.BaseURL }}/img/logo_dark.svg" alt="CLCERT">
+			</a>
+		</div>
+  		<div class="top-bar-right">
+        	<ul class="menu horizontal menu-desktop">
+			{{ $currentNode := . }}	
+			{{ range .Site.Menus.main }}
+          	<li><a class="nav-item{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} active{{end}}" href="{{.URL}}">{{ .Name}}</a></li>
+			{{end}}
+        	</ul>
+  	  	</div>
+	</div>
+</nav> 
+
+{{ block "header" . }}
+	{{ partial "page_title.html" . }}
+{{ end }}
+<section class="main-content grid-container">
+{{ block "main" . }}
+{{ end }}
+</section>
+<footer>
+	<div class="footer-wrapper grid-container">
+		<div class="grid-x grid-margin-x small-up-1 medium-up-4">
+			
+			<div class="cell footer-cell text-center">
+						<img class="site-footer-image" src="{{.Site.BaseURL}}/img/logo_dark.svg">
+					<p>Beauchef 851, torre norte,</p>
+					<p>tercer piso, Of. 336,</p>
+					<p>Santiago, Chile.</p>
+					<p>Código Postal 8370459.</p>
+					<p>contacto(arroba)clcert.cl</p>  
+				</ul>
+			</div>
+		
+			
+			<div class="cell footer-links">
+				{{ $currentNode := . }}
+				{{ range .Site.Menus.footer }}
+				<a class="nav-menu-footer nav-item{{if or ($currentNode.IsMenuCurrent "social" .) ($currentNode.HasMenuCurrent "social" .) }} active{{end}}" href="{{.URL}}" rel="me">{{ .Name}}</a>
+				{{end}}
+			</div>
+
+			<div class="cell footer-fcfm">
+				<a href="https://fcfm.uchile.cl"><img src="{{.Site.BaseURL}}/img/logo-fcfm.svg" alt="Facultad de Ciencias Físicas y Matemáticas - Universidad de Chile"></a>
+			</div>
+			<div class="cell footer-uchile">
+				<a href="https://uchile.cl"><img src="{{.Site.BaseURL}}/img/logo-uchile.svg" alt="Universidad de Chile"></a>
+			</div>
+
+		</div>
+	</div>
+</footer> 
+</div> 
+</div> 
+
+{{ partial "include_js.html" . }}
+{{ block "custom_js" . }}
+{{ end }}
+</body>
+</html>
