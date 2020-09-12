@@ -1,4 +1,4 @@
-baseurl = "https://clcert.cl/"
+baseurl = "https://www.clcert.cl/"
 author = "CLCERT Universidad de Chile"
 title = "Laboratorio de Criptografía Aplicada y Ciberseguridad - CLCERT"
 languageCode = "es-cl"
