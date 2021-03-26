@@ -7,5 +7,6 @@ proyectos:
     destacado: true
   - nombre: Observatorio de Seguridad de la Red
     imagen: osr.svg
-    url:  https://osr.cl
+    url:  https://osr.clcert.cl
+    destacado: true
     descripcion: "Observatorio de Seguridad de la Red Chilena"
