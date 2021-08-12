@@ -19,14 +19,15 @@ El CLCERT tiene como principales objetivos:
 * Entregar en forma oportuna y sistemática información sobre vulnerabilidades de seguridad y amenazas.
 * Divulgar y poner a disposición de la comunidad información que permita prevenir y resolver estos incidentes de seguridad
 * Educar a la comunidad en general sobre temas de seguridad, promoviendo las políticas que permiten su implementación.
+* Investigar y desarrollar herramientas computacionales para mejorar la privacidad y seguridad de la comunidad chilena, su información y procesos, particularmente aquellos con impacto público.
 
 CLCERT promueve el uso de Internet, los sistemas computacionales abiertos, y las tecnologías de la información, haciendo sus usos más seguros y que por lo tanto gocen de la confianza de la comunidad que los utiliza.
 
-El CLCERT es una organización local de transferencia científico-tecnológica abocada a prevenir, monitorear, manejar y responder a emergencias computacionales. El énfasis de su quehacer está en la estructuración de redes de confianza y en potenciar la formación del capital humano capaz de enfrentar el dinámico desafío que conlleva el garantizar la seguridad de la infraestructura informática y de comunicaciones. El CLCERT no compite con empresas del sector privado cuyo foco es la comercialización de productos de seguridad y de servicios asociados.
+El CLCERT es una organización local de investigación y transferencia científico-tecnológica abocada a prevenir, monitorear, manejar y responder a emergencias computacionales. El énfasis de su quehacer está en la estructuración de redes de confianza y en potenciar la formación del capital humano capaz de enfrentar el dinámico desafío que conlleva el garantizar la seguridad de la infraestructura informática y de comunicaciones. El CLCERT no compite con empresas del sector privado cuyo foco es la comercialización de productos de seguridad y de servicios asociados.
 
 Sobre-simplificando y obviando órdenes de magnitud, el CLCERT pretende cumplir en el ámbito de la seguridad informática, un rol similar al que desempeñan:
 
-* El Instituto Sismológico como monitor de actividad sísmica.
+* El Instituto Sismológico como monitor de actividad sísmica y elaborador de investigación asociada a fenómenos sísmicos que puedan afectar a la comunidad.
 * El INE como generador de mediciones de la realidad.
 * El Instituto Inmunológico como articulador de campañas y políticas para velar por el bienestar de la salud pública.
 {{</accordion/item>}}
@@ -59,13 +60,14 @@ En la actualidad, el CLCERT provee los siguientes servicios:
 * Difusión de alertas, estudios, incidentes y editoriales
 * Capacitación, desde una perspectiva tecnológicamente neutra, rigurosa y de prestigio.
 * Apoyo a instituciones públicas en la formulación de políticas, normas y prácticas que velen por la seguridad de sus recursos computacionales.
+* Investigación científica en temas asociados a Criptografía Aplicada y Ciberseguridad.
 
 {{</accordion/item>}}
 
 
 {{<accordion/item "¿Existe alguna relación entre el CLCERT y otros grupos que utilizan "CERT" dentro de sus nombres?">}}
 
-La relación entre los diferentes CERT's (Computer Emergency Response Team) que existen en el mundo y el CLCERT se da a través del FIRST (Forum of Incident and Security Response Team)
+La relación entre los diferentes CERT's (Computer Emergency Response Team) que existen en el mundo y el CLCERT se da a través del FIRST (Forum of Incident and Security Response Team).
 
 {{</accordion/item>}}
 
