@@ -4,7 +4,7 @@ weight: 1
 ---
 ## Misión
 
-Monitorear y analizar los problemas de seguridad de los sistemas computacionales en Chile, y generar tanto el conocimiento como el recurso humano especializado para asegurar dichos sistemas. 
+El Laboratorio de Criptografía Aplicada y Ciberseguridad (CLCERT) tiene como misión monitorear y analizar la (ciber)seguridad de los sistemas computacionales en Chile, y generar tanto el conocimiento como el recurso humano especializado para asegurar dichos sistemas. 
 
 ## Objetivos
 
