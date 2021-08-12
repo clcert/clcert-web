@@ -7,9 +7,9 @@ weight: 1
 
 {{<accordion/item "¿Qué es el CLCERT y que significan sus siglas?">}}
 
-El CLCERT es una iniciativa de la Universidad de Chile que surge en Octubre de 2001 y cuya misión es monitorear y analizar los problemas de seguridad de los sistemas computacionales en Chile, y generar tanto el conocimiento como el recurso humano especializado para asegurar dichos sistemas.
+El Laboratorio de Criptografía Aplicada y Ciberseguridad (CLCERT) es una iniciativa de la Universidad de Chile que surge en Octubre de 2001 y cuya misión es monitorear y analizar los problemas de seguridad de los sistemas computacionales en Chile, y generar tanto el conocimiento como el recurso humano especializado para asegurar dichos sistemas.
 
-El CLCERT genera espacios para que las empresas del sector de seguridad puedan prosperar, informarse y capacitarse, y tengan un referente de información imparcial y confiable.
+El CLCERT genera espacios para que las empresas del sector de seguridad puedan prosperar, informarse y capacitarse, y tengan un referente de información imparcial y confiable. 
 
 {{</accordion/item>}}
 
