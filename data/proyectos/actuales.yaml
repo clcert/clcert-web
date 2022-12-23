@@ -8,5 +8,10 @@ proyectos:
   - nombre: Observatorio de Seguridad de la Red
     imagen: osr.svg
     url:  https://osr.clcert.cl
-    destacado: true
+    destacado: false
     descripcion: "Observatorio de Seguridad de la Red Chilena"
+  - nombre: HackerLab
+    imagen: hackerlab.svg
+    url:  https://hackerlab.cl
+    destacado: true
+    descripcion: "Hackers con ganas de entender cómo funcionan los sistemas informáticos, cómo deberían funcionar y qué podemos hacer para protegerlos."
