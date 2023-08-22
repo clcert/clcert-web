@@ -1,15 +1,27 @@
 nombre: "Tesistas"
 tamano: 3
 integrantes:
+    - nombre: Bryan Ortiz
+      cargo: Tesista de Magíster
+      periodo: 2022 - 2023
+      foto: bortiz.jpg
+    - nombre: Ilana Mergudich
+      cargo: Tesista de Magíster
+      periodo: 2020 - 2021
+      foto: imergudich.png
+    - nombre: Alonso Reyes
+      cargo: Tesista de Magíster
+      periodo: 2019 - 2020
+      foto: areyes.png
+    - nombre: Juan Rojas
+      cargo: Tesista de Magíster
+      periodo: 2018 - 2020
+      foto: jrojas.png
     - nombre: Constanza Csori
-      cargo: Tesista (Magíster) 2017-2019
+      cargo: Tesista de Magíster
+      periodo: 2017 - 2019
       foto: ccsori.png
     - nombre: Eduardo Acha
-      cargo: Tesista (Magíster)
+      cargo: Tesista de Magíster
+      periodo: 2016 - 2017
       foto: eacha.png
-    - nombre: Juan Rojas
-      cargo: Tesista (Magíster) 2018-2020
-      foto: jrojas.png
-    - nombre: Alonso Reyes
-      cargo: Tesista (Magíster) 2019-2020
-      foto: areyes.png
