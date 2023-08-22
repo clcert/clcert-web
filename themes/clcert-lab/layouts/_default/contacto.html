@@ -17,13 +17,13 @@
 {{ define "custom_js" }}
 		<script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js" integrity="sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA==" crossorigin=""></script>
         <script type="text/javascript">
-            var map = L.map('mapa').setView([-33.45738,-70.66465], 25);
+            var map = L.map('mapa').setView([-33.45800,-70.66480], 25);
             L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
                 attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
             }).addTo(map);
             console.log(L.icon)
             L.Icon.Default.prototype.options.iconRetinaUrl = "img/pin_mapa.png";
-            L.marker([-33.45738,-70.66465]).addTo(map)
+            L.marker([-33.45800,-70.66480]).addTo(map)
         </script>
 {{ end }}
   

@@ -1,9 +1,14 @@
 nombre: Proyectos Actuales
 proyectos:
+  - nombre: Participa UChile
+    imagen: participauchile.svg
+    url: https://participa.uchile.cl/
+    descripcion: "Sistema de votación electrónica para la Universidad de Chile."
+    destacado: true
   - nombre: Random UChile
     imagen: randomuchile.svg
     url: https://random.uchile.cl
-    descripcion: "Aleatoriedad pública y verificable"
+    descripcion: "Generación de aleatoriedad pública y verificable mediante un faro de aleatoriedad."
     destacado: true
   - nombre: Observatorio de Seguridad de la Red
     imagen: osr.svg

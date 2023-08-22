@@ -14,7 +14,7 @@
     <svg:style id="style2">.cls-1{fill:#ed342f;}.cls-2{fill:#d51c19;}.cls-3{fill:#f2e7ce;}.cls-4{fill:#fffcf5;}.cls-5,.cls-6,.cls-7,.cls-8,.cls-9{fill:none;}.cls-5{stroke:#e43c27;}.cls-5,.cls-6,.cls-7,.cls-8{stroke-miterlimit:10;stroke-width:1.51px;}.cls-6{stroke:#1b66a4;}.cls-7{stroke:#fdcb44;}.cls-8{stroke:#19ae5b;}.cls-10{isolation:isolate;font-size:56.24px;fill:#20304f;font-family:Avenir;}</svg:style>
   </svg:defs>
   <svg:title id="title6">logorandom</svg:title>
-  <svg:g id="g879" transform="translate(28.403647,41.032343)">
+  <svg:g id="g879" transform="translate(0,0)">
     <svg:path style="fill:#ed342f" inkscape:connector-curvature="0" id="path8" d="m 48.918017,4.518018 h 41.9 a 9.82,9.82 0 0 1 9.800003,9.8 v 41.9 a 9.82,9.82 0 0 1 -9.800003,9.8 h -41.9 a 9.82,9.82 0 0 1 -9.8,-9.8 v -41.9 a 9.88,9.88 0 0 1 9.8,-9.8 z" class="cls-1"/>
     <svg:path style="fill:#d51c19" inkscape:connector-curvature="0" id="path10" d="m 69.918017,4.518018 h 21 a 9.82,9.82 0 0 1 9.800003,9.8 v 41.9 a 9.82,9.82 0 0 1 -9.800003,9.8 h -21 z" class="cls-2"/>
     <svg:circle style="fill:#f2e7ce" id="circle12" r="6.9000001" cy="18.018015" cx="86.518005" class="cls-3"/>

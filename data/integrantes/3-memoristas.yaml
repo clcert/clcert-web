@@ -1,21 +1,32 @@
 nombre: "Memoristas"
 tamano: 3
 integrantes:
-    - nombre: Sergio Leiva
-      cargo: Memorista 2019
-      foto: sleiva.png
-    - nombre: Franco Pino
-      cargo: Memorista 2019
-      foto: fpino.png
+    - nombre: Natalia Quinteros
+      cargo: Memorista
+      periodo: 2023
+      foto: nquinteros.jpg
+    - nombre: Fernanda Macías
+      cargo: Memorista
+      periodo: 2022
+      foto: fmacias.jpg
     - nombre: Diego Vargas
-      cargo: Memorista 2020
+      cargo: Memorista
+      periodo: 2020
       foto: dvargas.png
-    - nombre: Ilana Mergudich
-      cargo: Tesista 2020
-      foto: imergudich.png
     - nombre: Kyra Cossio
-      cargo: Memorista 2020
+      cargo: Memorista
+      periodo: 2020
       foto: kcossio.png
     - nombre: Guillermo Pilleux
-      cargo: Memorista 2020
+      cargo: Memorista
+      periodo: 2020
       foto: gpilleaux.png
+    - nombre: Sergio Leiva
+      cargo: Memorista
+      periodo: 2019
+      foto: sleiva.png
+    - nombre: Franco Pino
+      cargo: Memorista
+      periodo: 2019
+      foto: fpino.png
+    

@@ -27,6 +27,9 @@
 								<div class="card-user-bio">
 								  <h4>{{.nombre}}</h4>
 								  <p class="card-user-title">{{.cargo}}</p>
+									{{if .periodo}}
+								  	<p class="card-user-title">{{.periodo}}</p>
+									{{end}}
 								  <div class="card-user-social">
 									<ul class="menu">
 										{{ if .twitter }}
