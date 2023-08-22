@@ -3,23 +3,20 @@ title: "Contacto"
 layout: "contacto"
 ---
 
-# Dirección Postal
+## Dirección Postal
 
-```
-Beauchef 851, torre norte,
-tercer piso, Of. 336,
+
+Beauchef 851, edificio poniente,
+segundo piso, Of. 201D,
 Santiago, Chile.
+
 Código Postal 8370459.
-contacto(arroba)clcert.cl  
-```
 
-# Correo Electrónico
+## Correo Electrónico
 
-```
-contacto(arroba)clcert.cl
-```
+[contacto(arroba)clcert.cl](mailto:contacto@clcert.cl)
 
-# En otras plataformas
+## En otras plataformas
 
 * [Twitter](https://twitter.com/clcert)
 * [Github](https://github.com/clcert)
