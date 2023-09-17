@@ -1,10 +1,5 @@
 nombre: Convenios y Asociaciones
 proyectos:
-  - nombre: Alianza Chilena de Ciberseguridad
-    imagen: alianza.svg
-    url: https://alianzaciberseguridad.cl
-    descripcion: "Participación en la Alianza Chilena de Ciberseguridad"
-    destacado: true
   - nombre: CSIRT de Gobierno
     imagen: csirt.svg
     url:  https://csirt.gob.cl

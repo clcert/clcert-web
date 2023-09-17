@@ -12,6 +12,10 @@ html {
 	font-size: 1.2em;
 }
 
+body {
+	background-color: #112233;
+}
+
 .wrapper {
 	width: 1200px;
 	margin: 0 auto;
@@ -241,22 +245,27 @@ h4 {
 Main
 ************** */
 
-.logos {
-	max-width: 100%;
-	vertical-align: middle;
-}
-
-.first-logo {
-	margin-top: 25px;
+.league-logo {
+	height: 100px;
 }
 
 .dcc-logo {
-	max-height: 150px;
+	height: 100px;
 }
 
 .cmm-logo {
-	margin-top: 20px;
-	max-height: 140px;
+	margin-top: 10px;
+	height: 90px;
+}
+
+.alliances-and-sponsors {
+	margin-left: 10px;
+	margin-right: 10px;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
 }
 
 /*************
