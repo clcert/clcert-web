@@ -2,11 +2,13 @@ nombre: Proyectos Actuales
 proyectos:
   - nombre: Participa UChile
     imagen: participauchile.svg
+    imagen_sm: participauchile_small.svg
     url: https://participa.uchile.cl/
     descripcion: "Sistema de votación electrónica para la Universidad de Chile."
     destacado: true
   - nombre: Random UChile
     imagen: randomuchile.svg
+    imagen_sm: randomuchile_small.svg
     url: https://random.uchile.cl
     descripcion: "Generación de aleatoriedad pública y verificable mediante un faro de aleatoriedad."
     destacado: true
@@ -17,6 +19,7 @@ proyectos:
     descripcion: "Observatorio de Seguridad de la Red Chilena"
   - nombre: HackerLab
     imagen: hackerlab.svg
+    imagen_sm: hackerlab_small.svg
     url:  https://hackerlab.cl
     destacado: true
     descripcion: "Hackers con ganas de entender cómo funcionan los sistemas informáticos, cómo deberían funcionar y qué podemos hacer para protegerlos."
