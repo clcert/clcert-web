@@ -1,7 +1,7 @@
-nombre: Convenios y Asociaciones
-proyectos:
-  - nombre: CSIRT de Gobierno
-    imagen: csirt.svg
-    url:  https://csirt.gob.cl
-    descripcion: "Convenio de Colaboración con CSIRT de Gobierno"
-    oculto: true
+# nombre: Convenios y Asociaciones
+# proyectos:
+#   - nombre: CSIRT de Gobierno
+#     imagen: csirt.svg
+#     url:  https://csirt.gob.cl
+#     descripcion: "Convenio de Colaboración con CSIRT de Gobierno"
+#     oculto: true
