@@ -4,12 +4,12 @@
 {{ define "main" }}		
 	<div class="grid-x grid-margin-x">
 		<div class="small-12 medium-12 cell small-centered">
-			<h1 class="section-title">Proyectos y Alianzas Destacadas</h1>
-			<div class="grid-x grid-margin-x small-up-1 medium-up-3">
+			<h2 class="section-title">Proyectos Destacados</h2>
+			<div class="flex-centered">
 			{{ range $id, $grupo := .Site.Data.proyectos }}
 				{{ range $grupo.proyectos}}
 					{{ if (and .destacado (not .oculto)) }}
-						<div class="image-hover-wrapper cell">
+						<div class="projects-desktop image-hover-wrapper">
 							<a href="{{.url}}">
 							<div class="proyecto-img-helper">
 								<img src="{{ $.Site.BaseURL }}/img/proyectos/{{ .imagen }}">
@@ -20,6 +20,17 @@
 							</span>
 							</a>
 						</div>
+						<div class="projects-mobile flex-centered">
+							<a href="{{.url}}">
+								<div class="mini-logo">
+									<img src="{{ $.Site.BaseURL }}/img/proyectos/{{ .imagen_sm }}">
+								</div>
+							</a>
+							<div class="mini-project-description">
+								<h5>{{ .nombre }}</h5>
+								<p>{{ .descripcion }}</p>
+							</div>
+						</div>
 					{{ end }}				  
 				{{end}}
 			{{ else }}
@@ -28,7 +39,7 @@
 			</div>
 		</div>
 		<div class="small-12 cell small-centered">
-			<h1 class="section-title">Blog</h1>
+			<h2 class="section-title">Blog</h2>
 			{{ $posts := first 3 (where .Site.RegularPages "Type" "blog")}}
 			<div class="grid-x grid-margin-x small-up-1 medium-up-2 large-up-3">
 			{{ range $posts }}
@@ -39,19 +50,22 @@
 			</div>
 		</div>
 		<div class="small-12 medium-4 cell small-centered">
-			<h3 class="section-title">Membresías</h3>
-			<a href="https://first.org"><img class="logos first-logo" src="{{.Site.BaseURL}}/img/logo-first.png"></a>
+			<h3 class="section-title">Alianzas</h3>
+			<div class="flex-centered alliances-and-sponsors">
+				<div>
+					<a href="https://alianzaciberseguridad.cl"><img class="logos league-logo" src="{{.Site.BaseURL}}/img/alianza.svg"></a>
+				</div>
+			</div>
 		</div>
 		<div class="small-12 medium-8 cell small-centered">
 			<h3 class="section-title">Patrocinadores</h3>
-			<div class="grid-x grid-margin-x ">
-				<div class="cell small-12 medium-6 ">
+			<div class="flex-centered alliances-and-sponsors">
+				<div>
 					<a href="https://www.cmm.uchile.cl"><img class="logos cmm-logo" src="{{.Site.BaseURL}}/img/logo-cmm.svg"></a>
 				</div>
-				<div class="cell small-12 medium-6">
+				<div>
 					<a href="https://dcc.uchile.cl"><img class="logos dcc-logo" src="{{.Site.BaseURL}}/img/logo-dcc.png"></div></a>
 				</div>
-				
 			</div>
 		</div>
 	</div>

@@ -19,9 +19,10 @@
 				<div class="grid-x grid-margin-x small-up-1 medium-up-3">
 					{{ range $grupo.proyectos}}
 						{{ if (not .oculto) }}
-							<div class="image-hover-wrapper cell">
+							<div class="projects-desktop image-hover-wrapper">
 								<a href="{{.url}}">
 								<div class="proyecto-img-helper">
+									<span></span>
 									<img src="{{ $.Site.BaseURL }}/img/proyectos/{{ .imagen }}">
 								</div>
 								<span class="image-hover-wrapper-reveal">
@@ -29,6 +30,17 @@
 									<p>{{ .descripcion }}</p>
 								</span>
 								</a>
+							</div>
+							<div class="projects-mobile flex-centered">
+								<a href="{{.url}}">
+									<div class="mini-logo">
+										<img src="{{ $.Site.BaseURL }}/img/proyectos/{{ .imagen_sm }}">
+									</div>
+								</a>
+								<div class="mini-project-description">
+									<h5>{{ .nombre }}</h5>
+									<p>{{ .descripcion }}</p>
+								</div>
 							</div>
 						{{ end }}				  
 					{{ end }}				  
