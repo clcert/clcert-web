@@ -6,7 +6,7 @@ layout: "contacto"
 ## Dirección Postal
 
 
-Beauchef 851, edificio poniente,
+Beauchef 851, Edificio Poniente,
 segundo piso, Of. 201D,
 Santiago, Chile.
 
