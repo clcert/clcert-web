@@ -1,6 +1,6 @@
 {{ define "main" }}
 	<div class="article-date">Publicado el {{ .Date.Format "02 Jan 2006"}}</div>
-	<div class="article-author">por <b>CLCERT U. de Chile</b></div>
+	<div class="article-author">por <b>{{ .Params.author }}</b></div>
 	<div class="grid-x grid-padding-x">
 		<div class="blog-post-content cell small-12 medium-12">
 			<p> {{ .Content }} </p>
