@@ -29,7 +29,7 @@ keywords = "clcert, uchile"
 
 [params.hero]
 herodescription = '''
-Somos un grupo dedicado al monitoreo y análisis de los problemas de seguridad de los sistemas computacionales en Chile, y a la generación tanto del conocimiento como el recurso humano especializado para asegurar dichos sistemas.
+Somos un grupo de académicos, profesionales y estudiantes dedicados a generar conocimiento especializado y herramientas en criptografía aplicada y ciberseguridad. Buscamos entender los sistemas informáticos que nos rodean para identificar y resolver sus problemas de seguridad.
 '''
 link = "/laboratorio"
 
