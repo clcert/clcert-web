@@ -31,7 +31,7 @@ keywords = "clcert, uchile"
 herodescription = '''
 Somos un grupo dedicado al monitoreo y análisis de los problemas de seguridad de los sistemas computacionales en Chile, y a la generación tanto del conocimiento como el recurso humano especializado para asegurar dichos sistemas.
 '''
-link = "laboratorio/"
+link = "/laboratorio"
 
 [[menu.main]]
 name = "Laboratorio"
