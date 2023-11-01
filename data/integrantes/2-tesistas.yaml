@@ -1,27 +1,146 @@
-nombre: "Tesistas"
+nombre: "Memoristas y Tesistas"
 tamano: 3
 integrantes:
+    - nombre: Natalia Quinteros
+      cargo: Memorista
+      periodo: 2023
+      foto: nquinteros.jpg
+
+    - nombre: Gerardo Trincado
+      cargo: Memorista
+      periodo: 2023 - 2024
+      tesis_titulo: Diseño e Implementación de Sistema Automatizado de Recolección y Análisis de Mensajes de Texto Fraudulentos
+
+    - nombre: Sebastián Valdivia
+      cargo: Memorista
+      periodo: 2023 - 2024
+      tesis_titulo: Sistema Comunitario de Prevención, Detección y Seguimiento de Filtraciones de Correos Electrónicos Mediante un Proxy de Correos Temporales
+
+    - nombre: Nicolás Santibáñez
+      cargo: Memorista
+      periodo: 2023 - 2024
+      tesis_titulo: Sistema de Verificación de Filtraciones de Datos Orientado a Usuarios Chilenos
+
     - nombre: Bryan Ortiz
       cargo: Tesista de Magíster
       periodo: 2022 - 2023
       foto: bortiz.jpg
+      tesis_titulo: Accountable Intersection Management Algorithms
+
+    - nombre: Valentina Ramos
+      cargo: Memorista
+      periodo: 2022 - 2023
+
+    - nombre: Fernanda Macías
+      cargo: Memorista
+      periodo: 2022
+      foto: fmacias.jpg
+      tesis_titulo: Implementación de módulo de selección por ranking para el sistema de votación electrónica en la Plataforma Participa UChile
+      tesis_url: https://repositorio.uchile.cl/handle/2250/194753
+    
+    - nombre: Clemente Paredes
+      cargo: Memorista
+      periodo: 2022
+      tesis_titulo: Diseño e implementación de plataforma de autentificación anónima y su uso para denuncias en la Universidad de Chile
+      tesis_url: https://repositorio.uchile.cl/handle/2250/192649
+
     - nombre: Ilana Mergudich
       cargo: Tesista de Magíster
       periodo: 2020 - 2021
       foto: imergudich.png
+      tesis_titulo: Implementing secure reporting of sexual misconduct
+      tesis_url: https://repositorio.uchile.cl/handle/2250/184072
+    
     - nombre: Alonso Reyes
-      cargo: Tesista de Magíster
+      cargo: Memorista
       periodo: 2019 - 2020
       foto: areyes.png
+      tesis_titulo: Desarrollo de un servicio de predicción de precios de venta y arriendo para inmuebles en Chile, Colombia y México
+      tesis_url: https://repositorio.uchile.cl/handle/2250/189446
+
+    - nombre: Kyra Cossio 
+      cargo: Memorista
+      periodo: 2020
+      foto: kcossio.png
+      tesis_titulo: Aplicación Móvil para el Monitoreo de la Seguridad en Redes Inalámbricas en Internet
+      tesis_url: https://repositorio.uchile.cl/handle/2250/181120
+
+    - nombre: Guillermo Pilleux
+      cargo: Memorista
+      periodo: 2020
+      foto: gpilleaux.png
+      tesis_titulo: Sistema de pruebas de penetración automatizadas para aplicaciones web
+      tesis_url: https://repositorio.uchile.cl/handle/2250/181748
+
+    - nombre: Sergio Leiva
+      cargo: Memorista
+      periodo: 2020
+      foto: sleiva.png
+      tesis_titulo: Desarrollo de Plataforma para el Montaje Automático de HoneyNets para Laboratorios de Ciberseguridad
+      tesis_url: https://repositorio.uchile.cl/handle/2250/177044
+
+    - nombre: Diego Vargas
+      cargo: Memorista
+      periodo: 2020
+      foto: dvargas.png
+      tesis_titulo: Confirmación de Resultados para Votaciones Chilenas Usando Aleatoriedad Verificable
+      tesis_url: https://repositorio.uchile.cl/handle/2250/178229
+
+    - nombre: Eduardo Riveros
+      cargo: Tesista de Magíster
+      periodo: 2018 - 2019
+      foto: eriveros.jpg
+      tesis_titulo: Nuevas estrategias de análisis de datos de escaneos de la red chilena para el monitoreo periódico de su seguridad
+      tesis_url: https://repositorio.uchile.cl/handle/2250/175511
+      
+    - nombre: Franco Pino
+      cargo: Memorista
+      periodo: 2019
+      foto: fpino.png
+      tesis_titulo: Elección de Vocales de Mesa con Aleatoriedad Verificable
+      tesis_url: https://repositorio.uchile.cl/handle/2250/173971
+
     - nombre: Juan Rojas
       cargo: Tesista de Magíster
       periodo: 2018 - 2020
       foto: jrojas.png
+      tesis_titulo: Modelación y Análisis del Sistema Chileno de Votación
+      tesis_url: https://repositorio.uchile.cl/handle/2250/179641
+
     - nombre: Constanza Csori
       cargo: Tesista de Magíster
       periodo: 2017 - 2019
       foto: ccsori.png
+      tesis_titulo: Achieving transparency in public decision making processes via verifiable Randomness
+      tesis_url: https://repositorio.uchile.cl/handle/2250/175080
+
+    - nombre: Luisa Zurita
+      cargo: Tesista de Magíster
+      período: 2017 - 2018
+      tesis_titulo: Sistema de Renovación de Credenciales en Telefónica Chile
+      tesis_url: https://repositorio.uchile.cl/handle/2250/169981
+  
+    - nombre: Francisco Montoto
+      cargo: Tesista de Magíster
+      periodo: 2017 - 2018
+      tesis_titulo: Bitcoin gambling using distributed oracles in the blockchain
+      tesis_url: https://repositorio.uchile.cl/handle/2250/151866
+
+    - nombre: Camilo Gómez
+      cargo: Tesista de Magíster
+      periodo: 2017 - 2018
+      foto: cgomez.jpg
+      tesis_titulo: Diseño e Implementación de un Sistema de Mensajería Anónima Basado en DC-Net
+
     - nombre: Eduardo Acha
       cargo: Tesista de Magíster
       periodo: 2016 - 2017
       foto: eacha.png
+      tesis_titulo: Monitoreo Activo de Seguridad Sobre la Red Chilena
+      tesis_url: https://repositorio.uchile.cl/handle/2250/148367
+
+    - nombre: Boris Romero
+      cargo: Tesista de Magíster
+      periodo: 2016
+      tesis_titulo: Análisis de seguridad de la Tarjeta Bip! chilena como medio de pago
+      tesis_url: https://repositorio.uchile.cl/handle/2250/139911

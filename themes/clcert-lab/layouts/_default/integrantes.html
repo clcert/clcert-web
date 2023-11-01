@@ -22,7 +22,11 @@
 
 							<div class="card-user-container">
 								<div class="card-user-avatar">
-								  <img src="{{$.Site.BaseURL}}/img/integrantes/{{.foto}}" alt="{{.nombre}}" class="user-image">
+									{{ if .foto}}
+								  	<img src="{{$.Site.BaseURL}}/img/integrantes/{{.foto}}" alt="{{.nombre}}" class="user-image">
+									{{ else }}
+										<img src="{{$.Site.BaseURL}}/img/integrantes/default.png" alt="{{.nombre}}" class="user-image">
+									{{ end }}
 								</div>
 								<div class="card-user-bio">
 								  <h4>{{.nombre}}</h4>
