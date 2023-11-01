@@ -93,3 +93,9 @@ weight = 4
 name = "Github"
 url = "http://github.com/clcert"
 weight = 5
+
+[[menu.footer]]
+name = "Instagram"
+url = "https://www.instagram.com/clcert.cl/"
+weight = 6
+
