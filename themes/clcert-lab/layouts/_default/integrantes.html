@@ -34,6 +34,14 @@
 									{{if .periodo}}
 								  	<p class="card-user-title">{{.periodo}}</p>
 									{{end}}
+									{{if .tesis_titulo}}
+								  	<p class="card-user-title">
+											<i>"{{.tesis_titulo}}"</i>
+											{{if .tesis_url}}
+												<a href="{{.tesis_url}}"><i class="fa fa-external-link"></i></a>
+											{{end}}
+										</p>
+									{{end}}
 								  <div class="card-user-social">
 									<ul class="menu">
 										{{ if .twitter }}

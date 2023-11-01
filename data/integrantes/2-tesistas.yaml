@@ -5,6 +5,7 @@ integrantes:
       cargo: Memorista
       periodo: 2023
       foto: nquinteros.jpg
+      tesis_titulo: Reimplementación, extensión y optimización de aplicación de detección de hardware enfocado al ciberacoso
 
     - nombre: Gerardo Trincado
       cargo: Memorista
@@ -25,7 +26,7 @@ integrantes:
       cargo: Tesista de Magíster
       periodo: 2022 - 2023
       foto: bortiz.jpg
-      tesis_titulo: Accountable Intersection Management Algorithms
+      tesis_titulo: Accountable intersection management algorithms
 
     - nombre: Valentina Ramos
       cargo: Memorista
@@ -116,7 +117,7 @@ integrantes:
 
     - nombre: Luisa Zurita
       cargo: Tesista de Magíster
-      período: 2017 - 2018
+      periodo: 2017 - 2018
       tesis_titulo: Sistema de Renovación de Credenciales en Telefónica Chile
       tesis_url: https://repositorio.uchile.cl/handle/2250/169981
   
