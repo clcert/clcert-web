@@ -1,6 +1,6 @@
 ---
 title: El CLCERT se presenta en la semana computina del DCC UChile.
-author: CLCERT Universidad de Chile.
+author: Bryan Ortiz
 image: /img/posts/computing_week2023.jpg
 date: "2023-10-18 21:20:35"
 summary: "Mediante una presentación llena de historia y anécdotas, el CLCERT expone sus proyectos y líneas de investigación a las y los estudiantes del DCC UChile. La instancia se da en medio de las actividades de la _semana computina_, organizada por el Centro de Estudiantes del DCC. La jornada concluye con un taller de hacking competitivo."

@@ -1,6 +1,6 @@
 ---
 title: Stand del CLCERT en OEA Cyber Challenge.
-author: CLCERT Universidad de Chile.
+author: Bryan Ortiz
 image: /img/posts/oea_cyberchallenge.jpg
 date: "2023-10-26 23:40:38"
 summary: "La final de la OEA Cyberchallenge, realizada en las dependencias del DCC UChile, trajo consigo la posibilidad de interactuar con representantes de distintos países de latinoamérica. Integrantes del CLCERT formaron un _stand_ en conjunto con [Niñas Pro](https://ninaspro.cl/) para hacer difusión de nuestros proyectos y compartir perspectivas con las y los asistentes del evento."
