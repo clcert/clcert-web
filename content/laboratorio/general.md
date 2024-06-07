@@ -9,7 +9,7 @@ Somos un grupo de académicos, profesionales y estudiantes dedicados a generar c
 ## Objetivos
 
 El CLCERT tiene como principales objetivos:
-- Realizar investigación criptografía aplicada y ciberseguridad, y desarrollar herramientas en dichas áreas. 
+- Realizar investigación en criptografía aplicada y ciberseguridad, y desarrollar herramientas en dichas áreas. 
 - Estudiar y analizar sistemas informáticos para identificar vulnerabilidades y determinar cómo protegerlos.
 - Educar y promover el desarrollo de tecnologías y políticas públicas que permitan mejorar la ciberseguridad.
 
