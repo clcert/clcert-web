@@ -3,13 +3,14 @@ tamano: 3
 integrantes:
     - nombre: Natalia Quinteros
       cargo: Memorista
-      periodo: 2023
+      periodo: 2023 - 2024
       foto: nquinteros.jpg
       tesis_titulo: Reimplementación, extensión y optimización de aplicación de detección de hardware enfocado al ciberacoso
 
     - nombre: Gerardo Trincado
       cargo: Memorista
       periodo: 2023 - 2024
+      foto: gtrincado.jpg
       tesis_titulo: Diseño e Implementación de Sistema Automatizado de Recolección y Análisis de Mensajes de Texto Fraudulentos
 
     - nombre: Sebastián Valdivia
@@ -20,11 +21,12 @@ integrantes:
     - nombre: Nicolás Santibáñez
       cargo: Memorista
       periodo: 2023 - 2024
+      foto: nsatibanez.jpg
       tesis_titulo: Sistema de Verificación de Filtraciones de Datos Orientado a Usuarios Chilenos
 
     - nombre: Bryan Ortiz
       cargo: Tesista de Magíster
-      periodo: 2022 - 2023
+      periodo: 2022 - 2024
       foto: bortiz.jpg
       tesis_titulo: Accountable intersection management algorithms
 
@@ -104,7 +106,6 @@ integrantes:
     - nombre: Juan Rojas
       cargo: Tesista de Magíster
       periodo: 2018 - 2020
-      foto: jrojas.png
       tesis_titulo: Modelación y Análisis del Sistema Chileno de Votación
       tesis_url: https://repositorio.uchile.cl/handle/2250/179641
 

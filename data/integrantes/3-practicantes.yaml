@@ -1,7 +1,0 @@
-nombre: "Practicantes"
-tamano: 3
-integrantes:
-    - nombre: "Alejandro González"
-      cargo: Practicante en Random UChile
-      periodo: 2018 - 2019
-      foto: "agonzalez.png"

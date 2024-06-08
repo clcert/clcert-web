@@ -1,0 +1,27 @@
+nombre: "Estudiantes Colaboradores"
+tamano: 3
+integrantes:
+  - nombre: Javiera Jiménez
+    cargo: Colaboradora en Participa UChile
+    periodo: 2024
+
+  - nombre: Camila Ramírez
+    cargo: Colaboradora en Random UChile
+    periodo: 2024
+
+  - nombre: Darlene Sobarzo
+    cargo: Colaboradora en Participa UChile
+    periodo: 2024
+
+  - nombre: Sergio Rojas
+    cargo: Colaborador en Participa UChile
+    periodo: 2024
+
+  - nombre: Tomás Alvarado
+    cargo: Integrante de Hackerlab UChile
+    periodo: 2024
+
+  - nombre: Alejandro González
+    cargo: Colaborador en Random UChile
+    periodo: 2018 - 2019
+    foto: agonzalez.png
