@@ -27,9 +27,13 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
 
-      - run: hugo --gc --minify
+      - name: Build Hugo
+        run: hugo --gc --minify
 
-      - name: Deploy
+      - name: Copy CNAME
+        run: cp CNAME public/
+
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
