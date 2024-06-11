@@ -1,0 +1,64 @@
+nombre: Miembros en Proyectos
+tamano: 3
+integrantes:
+  - nombre: Javiera Jiménez
+    cargo: Estudiante de Pregrado
+    proyecto: Participa UChile
+    periodo: 2024
+
+  - nombre: Camila Ramírez B.
+    cargo: Estudiante de Pregrado
+    proyecto: Random UChile
+    periodo: 2024
+    foto: cramirez.jpg
+
+  - nombre: Darlene Sobarzo
+    cargo: Estudiante de Pregrado
+    proyecto: Participa UChile
+    periodo: 2024
+
+  - nombre: Sergio Rojas
+    cargo: Estudiante de Pregrado
+    proyecto: Participa UChile
+    periodo: 2024
+
+  - nombre: Tomás Alvarado
+    cargo: Estudiante de Pregrado
+    proyecto: HackerLab
+    periodo: 2024
+
+  - nombre: Raúl de la Fuente
+    cargo: Ingeniero de Desarrollo e Investigación
+    proyecto: Participa UChile
+    periodo: Desde 2023
+    foto: rdelafuente.jpg
+  
+  - nombre: Cristobal Jaramillo
+    cargo: Ingeniero de Desarrollo e Investigación
+    proyecto: Participa UChile
+    periodo: Desde 2022
+    foto: cjaramillo.jpg
+
+  - nombre: Fernanda Macías
+    cargo: Ingeniera de Desarrollo e Investigación
+    proyecto: Participa UChile
+    periodo: Desde 2022
+    foto: fmacias.jpg
+  
+  - nombre: Bryan Ortiz
+    cargo: Ingeniero de Desarrollo e Investigación
+    proyecto: Random UChile
+    periodo: Desde 2022
+    foto: bortiz.jpg
+
+  - nombre: Marta Apablaza
+    cargo: Periodista
+    proyecto: Participa UChile
+    periodo: Desde 2022
+    foto: mapablaza.jpg
+
+  - nombre: Alejandro González
+    cargo: Estudiante de Pregrado
+    proyecto: Random UChile
+    periodo: 2018 - 2019
+    foto: agonzalez.png

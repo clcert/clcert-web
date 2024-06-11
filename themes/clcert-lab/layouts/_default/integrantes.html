@@ -31,6 +31,9 @@
 								<div class="card-user-bio">
 								  <h4>{{.nombre}}</h4>
 								  <p class="card-user-title">{{.cargo}}</p>
+								  	{{if .proyecto}}
+								  		<p class="card-user-title"><b>{{.proyecto}}</b></p>
+									{{end}}
 									{{if .periodo}}
 								  	<p class="card-user-title">{{.periodo}}</p>
 									{{end}}

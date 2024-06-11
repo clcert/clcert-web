@@ -1,28 +1,28 @@
 nombre: "Memoristas y Tesistas"
 tamano: 3
 integrantes:
-    - nombre: Natalia Quinteros
-      cargo: Memorista
-      periodo: 2023 - 2024
-      foto: nquinteros.jpg
-      tesis_titulo: Reimplementación, extensión y optimización de aplicación de detección de hardware enfocado al ciberacoso
-
     - nombre: Gerardo Trincado
       cargo: Memorista
       periodo: 2023 - 2024
       foto: gtrincado.jpg
       tesis_titulo: Diseño e Implementación de Sistema Automatizado de Recolección y Análisis de Mensajes de Texto Fraudulentos
 
-    - nombre: Sebastián Valdivia
-      cargo: Memorista
-      periodo: 2023 - 2024
-      tesis_titulo: Sistema Comunitario de Prevención, Detección y Seguimiento de Filtraciones de Correos Electrónicos Mediante un Proxy de Correos Temporales
-
     - nombre: Nicolás Santibáñez
       cargo: Memorista
       periodo: 2023 - 2024
       foto: nsantibanez.jpg
       tesis_titulo: Sistema de Verificación de Filtraciones de Datos Orientado a Usuarios Chilenos
+
+    - nombre: Natalia Quinteros
+      cargo: Memorista
+      periodo: 2023 - 2024
+      foto: nquinteros.jpg
+      tesis_titulo: Reimplementación, extensión y optimización de aplicación de detección de hardware enfocado al ciberacoso
+
+    - nombre: Sebastián Valdivia
+      cargo: Memorista
+      periodo: 2023 - 2024
+      tesis_titulo: Sistema Comunitario de Prevención, Detección y Seguimiento de Filtraciones de Correos Electrónicos Mediante un Proxy de Correos Temporales
 
     - nombre: Bryan Ortiz
       cargo: Tesista de Magíster
@@ -33,6 +33,8 @@ integrantes:
     - nombre: Valentina Ramos
       cargo: Memorista
       periodo: 2022 - 2023
+      tesis_titulo: Propuesta de metodología para evaluar la seguridad informática perimetral de unidades universitarias
+      tesis_url: https://repositorio.uchile.cl/handle/2250/198721
 
     - nombre: Fernanda Macías
       cargo: Memorista
@@ -99,7 +101,7 @@ integrantes:
     - nombre: Franco Pino
       cargo: Memorista
       periodo: 2019
-      foto: fpino.png
+      foto: fpino.jpg
       tesis_titulo: Elección de Vocales de Mesa con Aleatoriedad Verificable
       tesis_url: https://repositorio.uchile.cl/handle/2250/173971
 
@@ -107,6 +109,7 @@ integrantes:
       cargo: Tesista de Magíster
       periodo: 2018 - 2020
       tesis_titulo: Modelación y Análisis del Sistema Chileno de Votación
+      foto: jrojas.jpg
       tesis_url: https://repositorio.uchile.cl/handle/2250/179641
 
     - nombre: Constanza Csori
