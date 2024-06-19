@@ -29,39 +29,41 @@
 									{{ end }}
 								</div>
 								<div class="card-user-bio">
-								  <h4>{{.nombre}}</h4>
-								  <div class="card-user-social">
-									<ul class="menu">
-										{{ if .mail }}
-											<li>
-											<a href="mailto:{{.mail}}"><i class="fa fa-envelope"></i></a>
-											</li>
-										{{ end }}
-										{{ if .linkedin }}
-											<li>
-											<a href="https://www.linkedin.com/in/{{.linkedin}}"><i class="fa fa-linkedin"></i></a>
-											</li>
-										{{ end }}
-										{{ if .twitter }}
-											<li>
-											<a href="https://twitter.com/{{.twitter}}"><i class="fa fa-twitter"></i></a>
-											</li>
-										{{ end }}
-										{{ if .github }}
-											<li>
-											<a href="https://github.com/{{.github}}"><i class="fa fa-github"></i></a>
-											</li>
-										{{ end }}
-										{{ if .web }}
-											<li>
-											<a href="{{.web}}"><i class="fa fa-globe"></i></a>
-											</li>
-										{{ end }}
-									</ul>
-								  </div>
-								  <p class="card-user-title"><b>{{.cargo}}</b></p>
+								  	<h4>{{.nombre}}</h4>
+									{{ if or .mail .linkedin .twitter .github .web }}
+										<div class="card-user-social">
+											<ul class="menu">
+												{{ if .mail }}
+													<li>
+													<a href="mailto:{{.mail}}"><i class="fa fa-envelope"></i></a>
+													</li>
+												{{ end }}
+												{{ if .linkedin }}
+													<li>
+													<a href="https://www.linkedin.com/in/{{.linkedin}}"><i class="fa fa-linkedin"></i></a>
+													</li>
+												{{ end }}
+												{{ if .twitter }}
+													<li>
+													<a href="https://twitter.com/{{.twitter}}"><i class="fa fa-twitter"></i></a>
+													</li>
+												{{ end }}
+												{{ if .github }}
+													<li>
+													<a href="https://github.com/{{.github}}"><i class="fa fa-github"></i></a>
+													</li>
+												{{ end }}
+												{{ if .web }}
+													<li>
+													<a href="{{.web}}"><i class="fa fa-globe"></i></a>
+													</li>
+												{{ end }}
+											</ul>
+										</div>
+									{{ end }}
+								  	<p class="card-user-title"><b>{{.cargo}}</b></p>
 									{{if .periodo}}
-								  	<p class="card-user-title">{{.periodo}}</p>
+								  		<p class="card-user-title">{{.periodo}}</p>
 									{{end}}
 									{{if .tesis_titulo}}
 								  	<p class="card-user-title">
