@@ -30,42 +30,50 @@
 								</div>
 								<div class="card-user-bio">
 								  <h4>{{.nombre}}</h4>
-								  <p class="card-user-title">{{.cargo}}</p>
-								  	{{if .proyecto}}
-								  		<p class="card-user-title"><b>{{.proyecto}}</b></p>
-									{{end}}
+								  <div class="card-user-social">
+									<ul class="menu">
+										{{ if .mail }}
+											<li>
+											<a href="mailto:{{.mail}}"><i class="fa fa-envelope"></i></a>
+											</li>
+										{{ end }}
+										{{ if .linkedin }}
+											<li>
+											<a href="https://www.linkedin.com/in/{{.linkedin}}"><i class="fa fa-linkedin"></i></a>
+											</li>
+										{{ end }}
+										{{ if .twitter }}
+											<li>
+											<a href="https://twitter.com/{{.twitter}}"><i class="fa fa-twitter"></i></a>
+											</li>
+										{{ end }}
+										{{ if .github }}
+											<li>
+											<a href="https://github.com/{{.github}}"><i class="fa fa-github"></i></a>
+											</li>
+										{{ end }}
+										{{ if .web }}
+											<li>
+											<a href="{{.web}}"><i class="fa fa-globe"></i></a>
+											</li>
+										{{ end }}
+									</ul>
+								  </div>
+								  <p class="card-user-title"><b>{{.cargo}}</b></p>
 									{{if .periodo}}
 								  	<p class="card-user-title">{{.periodo}}</p>
 									{{end}}
 									{{if .tesis_titulo}}
 								  	<p class="card-user-title">
-											<i>"{{.tesis_titulo}}"</i>
-											{{if .tesis_url}}
-												<a href="{{.tesis_url}}"><i class="fa fa-external-link"></i></a>
-											{{end}}
-										</p>
+										<i>"{{.tesis_titulo}}"</i>
+										{{if .tesis_url}}
+											<a href="{{.tesis_url}}"><i class="fa fa-external-link"></i></a>
+										{{end}}
+									</p>
 									{{end}}
-								  <div class="card-user-social">
-									<ul class="menu">
-										{{ if .twitter }}
-										<li>
-										  <a href="https://twitter.com/{{.twitter}}"><i class="fa fa-twitter"></i></a>
-										</li>
-										{{ end }}
-										{{ if .github }}
-										<li>
-										  <a href="https://github.com/{{.github}}"><i class="fa fa-github"></i></a>
-										</li>
-										{{ end }}
-										{{ if .web }}
-										<li>
-										  <a href="{{.web}}"><i class="fa fa-globe"></i></a>
-										</li>
-										{{ end }}
-
-									</ul>
-								  </div>
-								  <p class="card-user-bio">{{.bio}}</p>
+									{{ if .bio }}
+										<p class="card-user-bio">{{.bio}}</p>
+									{{ end }}
 								</div>
 						  
 							  </div>
