@@ -2,90 +2,91 @@ nombre: "Memoristas y Tesistas"
 tamano: 3
 integrantes:
     - nombre: Gerardo Trincado
-      cargo: Memorista
+      cargo: Memorista de Pregrado
       periodo: 2023 - 2024
       foto: gtrincado.jpg
       tesis_titulo: Diseño e Implementación de Sistema Automatizado de Recolección y Análisis de Mensajes de Texto Fraudulentos
 
     - nombre: Nicolás Santibáñez
-      cargo: Memorista
+      cargo: Memorista de Pregrado
       periodo: 2023 - 2024
       foto: nsantibanez.jpg
       tesis_titulo: Sistema de Verificación de Filtraciones de Datos Orientado a Usuarios Chilenos
 
     - nombre: Natalia Quinteros
-      cargo: Memorista
+      cargo: Memorista de Pregrado
       periodo: 2023 - 2024
       foto: nquinteros.jpg
       tesis_titulo: Reimplementación, extensión y optimización de aplicación de detección de hardware enfocado al ciberacoso
-
-    - nombre: Sebastián Valdivia
-      cargo: Memorista
-      periodo: 2023 - 2024
-      tesis_titulo: Sistema Comunitario de Prevención, Detección y Seguimiento de Filtraciones de Correos Electrónicos Mediante un Proxy de Correos Temporales
 
     - nombre: Bryan Ortiz
       cargo: Tesista de Magíster
       periodo: 2022 - 2024
       foto: bortiz.jpg
-      tesis_titulo: Accountable intersection management algorithms
+      tesis_titulo: Accountable intersection management protocols
+  
+    - nombre: Sebastián Valdivia
+      cargo: Memorista de Pregrado
+      periodo: 2023
+      tesis_titulo: Sistema Comunitario de Prevención, Detección y Seguimiento de Filtraciones de Correos Electrónicos Mediante un Proxy de Correos Temporales
 
     - nombre: Valentina Ramos
-      cargo: Memorista
+      cargo: Memorista de Pregrado
       periodo: 2022 - 2023
+      foto: vramos.jpg
       tesis_titulo: Propuesta de metodología para evaluar la seguridad informática perimetral de unidades universitarias
       tesis_url: https://repositorio.uchile.cl/handle/2250/198721
 
     - nombre: Fernanda Macías
-      cargo: Memorista
+      cargo: Memorista de Pregrado
       periodo: 2022
       foto: fmacias.jpg
       tesis_titulo: Implementación de módulo de selección por ranking para el sistema de votación electrónica en la Plataforma Participa UChile
       tesis_url: https://repositorio.uchile.cl/handle/2250/194753
     
     - nombre: Clemente Paredes
-      cargo: Memorista
+      cargo: Memorista de Pregrado
       periodo: 2022
       tesis_titulo: Diseño e implementación de plataforma de autentificación anónima y su uso para denuncias en la Universidad de Chile
       tesis_url: https://repositorio.uchile.cl/handle/2250/192649
 
-    - nombre: Ilana Mergudich
+    - nombre: Alonso Reyes
+      cargo: Memorista de Pregrado
+      periodo: 2020 - 2022
+      foto: areyes.png
+      tesis_titulo: Desarrollo de un servicio de predicción de precios de venta y arriendo para inmuebles en Chile, Colombia y México
+      tesis_url: https://repositorio.uchile.cl/handle/2250/189446
+
+    - nombre: Ilana Mergudich Thal
       cargo: Tesista de Magíster
       periodo: 2020 - 2021
       foto: imergudich.png
       tesis_titulo: Implementing secure reporting of sexual misconduct
       tesis_url: https://repositorio.uchile.cl/handle/2250/184072
-    
-    - nombre: Alonso Reyes
-      cargo: Memorista
-      periodo: 2019 - 2020
-      foto: areyes.png
-      tesis_titulo: Desarrollo de un servicio de predicción de precios de venta y arriendo para inmuebles en Chile, Colombia y México
-      tesis_url: https://repositorio.uchile.cl/handle/2250/189446
 
     - nombre: Kyra Cossio 
-      cargo: Memorista
+      cargo: Memorista de Pregrado
       periodo: 2020
       foto: kcossio.png
       tesis_titulo: Aplicación Móvil para el Monitoreo de la Seguridad en Redes Inalámbricas en Internet
       tesis_url: https://repositorio.uchile.cl/handle/2250/181120
 
     - nombre: Guillermo Pilleux
-      cargo: Memorista
+      cargo: Memorista de Pregrado
       periodo: 2020
       foto: gpilleaux.png
       tesis_titulo: Sistema de pruebas de penetración automatizadas para aplicaciones web
       tesis_url: https://repositorio.uchile.cl/handle/2250/181748
 
     - nombre: Sergio Leiva
-      cargo: Memorista
+      cargo: Memorista de Pregrado
       periodo: 2020
       foto: sleiva.png
       tesis_titulo: Desarrollo de Plataforma para el Montaje Automático de HoneyNets para Laboratorios de Ciberseguridad
       tesis_url: https://repositorio.uchile.cl/handle/2250/177044
 
     - nombre: Diego Vargas
-      cargo: Memorista
+      cargo: Memorista de Pregrado
       periodo: 2020
       foto: dvargas.png
       tesis_titulo: Confirmación de Resultados para Votaciones Chilenas Usando Aleatoriedad Verificable
@@ -93,13 +94,13 @@ integrantes:
 
     - nombre: Eduardo Riveros
       cargo: Tesista de Magíster
-      periodo: 2018 - 2019
+      periodo: 2018 - 2020
       foto: eriveros.jpg
       tesis_titulo: Nuevas estrategias de análisis de datos de escaneos de la red chilena para el monitoreo periódico de su seguridad
       tesis_url: https://repositorio.uchile.cl/handle/2250/175511
       
     - nombre: Franco Pino
-      cargo: Memorista
+      cargo: Memorista de Pregrado
       periodo: 2019
       foto: fpino.jpg
       tesis_titulo: Elección de Vocales de Mesa con Aleatoriedad Verificable
@@ -124,18 +125,18 @@ integrantes:
       periodo: 2017 - 2018
       tesis_titulo: Sistema de Renovación de Credenciales en Telefónica Chile
       tesis_url: https://repositorio.uchile.cl/handle/2250/169981
-  
-    - nombre: Francisco Montoto
-      cargo: Tesista de Magíster
-      periodo: 2017 - 2018
-      tesis_titulo: Bitcoin gambling using distributed oracles in the blockchain
-      tesis_url: https://repositorio.uchile.cl/handle/2250/151866
 
     - nombre: Camilo Gómez
       cargo: Tesista de Magíster
       periodo: 2017 - 2018
       foto: cgomez.jpg
       tesis_titulo: Diseño e Implementación de un Sistema de Mensajería Anónima Basado en DC-Net
+  
+    - nombre: Francisco Montoto
+      cargo: Tesista de Magíster
+      periodo: 2017 - 2018
+      tesis_titulo: Bitcoin gambling using distributed oracles in the blockchain
+      tesis_url: https://repositorio.uchile.cl/handle/2250/151866
 
     - nombre: Eduardo Acha
       cargo: Tesista de Magíster
@@ -144,8 +145,129 @@ integrantes:
       tesis_titulo: Monitoreo Activo de Seguridad Sobre la Red Chilena
       tesis_url: https://repositorio.uchile.cl/handle/2250/148367
 
+    - nombre: Alonso González
+      cargo: Tesista de Doctorado
+      periodo: 2013 - 2017
+      tesis_titulo: Efficient non-interactive zero-knowledge Proofs
+      tesis_url: https://repositorio.uchile.cl/handle/2250/144465
+
+    - nombre: Cristián Rojas
+      cargo: Tesista de Magíster
+      periodo: 2015 - 2016
+      tesis_titulo: Evaluación de la seguridad de aplicaciones móviles bancarias
+      tesis_url: https://repositorio.uchile.cl/handle/2250/144529
+
+    - nombre: Francisco Cifuentes
+      cargo: Tesista de Magíster
+      periodo: 2015 - 2016
+      tesis_titulo: Eliminación de puntos críticos de falla en el sistema Threshold Cryptography HSM
+      tesis_url: https://repositorio.uchile.cl/handle/2250/138277
+
     - nombre: Boris Romero
       cargo: Tesista de Magíster
-      periodo: 2016
+      periodo: 2015 - 2016
       tesis_titulo: Análisis de seguridad de la Tarjeta Bip! chilena como medio de pago
       tesis_url: https://repositorio.uchile.cl/handle/2250/139911
+
+    - nombre: Camilo Gómez
+      cargo: Memorista de Pregrado
+      periodo: 2015
+      foto: cgomez.jpg
+      tesis_titulo: Diseño e implementación de un sistema de votación electrónica modular y dual, verificable por el votante
+      tesis_url: https://repositorio.uchile.cl/handle/2250/132997
+
+    - nombre: Mario Cornejo
+      cargo: Tesista de Magíster
+      periodo: 2014 - 2015
+      tesis_titulo: An elastic electronic voting system
+      tesis_url: https://repositorio.uchile.cl/handle/2250/136271
+
+    - nombre: Giselle Font
+      cargo: Tesista de Magíster
+      periodo: 2014 - 2015
+      tesis_titulo: Location privacy for a monitoring system of the quality of access to mobile internet
+      tesis_url: https://repositorio.uchile.cl/handle/2250/132852
+
+    - nombre: Eduardo Frias
+      cargo: Memorista de Pregrado
+      periodo: 2013 - 2014
+      tesis_titulo: Sistema de criptoanálisis distribuido
+      tesis_url: https://repositorio.uchile.cl/handle/2250/116666
+
+    - nombre: Jorge Bahamonde
+      cargo: Memorista de Pregrado
+      periodo: 2013
+      tesis_titulo: Mecanismo de filtrado criptográfico para sistemas de comunicación anónima basados en reencriptación
+      tesis_url: https://repositorio.uchile.cl/handle/2250/115698
+
+    - nombre: Mario Jara
+      cargo: Memorista de Pregrado
+      periodo: 2012 - 2013
+      tesis_titulo: Ofuscación de permutaciones en mixnets
+      tesis_url: https://repositorio.uchile.cl/handle/2250/112559
+
+    - nombre: Philippe Camacho
+      cargo: Tesista de Doctorado
+      periodo: 2009 - 2013
+      tesis_titulo: Predicate-preserving collision-resistant hashing
+      tesis_url: https://repositorio.uchile.cl/handle/2250/115277
+
+    - nombre: Nicolás Malbrán
+      cargo: Memorista de Pregrado
+      periodo: 2012
+      tesis_titulo: Creación de un software de análisis para Malware en aplicaciones de Android OS - SAMSARAA
+      tesis_url: https://repositorio.uchile.cl/handle/2250/112572 
+
+    - nombre: Adolfo Barra
+      cargo: Tesista de Magíster
+      periodo: 2011 - 2012
+      tesis_titulo: Diseño de proceso y sistema de gestión de seguridad de una entidad prestadora de servicios de certificación
+      tesis_url: https://repositorio.uchile.cl/handle/2250/111877
+
+    - nombre: Renata Faccilongo
+      cargo: Tesista de Magíster
+      periodo: 2011 - 2012
+      tesis_titulo: Diseño, integración y evaluación de herramientas de visualización de tráfico para el reconocimiento de ataques computacionales vía una Darknet
+      tesis_url: https://repositorio.uchile.cl/handle/2250/111876
+
+    - nombre: Rodrigo Porras
+      cargo: Memorista de Pregrado
+      periodo: 2011 - 2012
+      tesis_titulo: Extensión y mejora de un sistema de votación electrónica para hacerlo más robusto, universalmente verificable, fácilmente usable y práctico
+      tesis_url: https://repositorio.uchile.cl/handle/2250/111291
+
+    - nombre: Alonso González
+      cargo: Memorista de Pregrado
+      periodo: 2011
+      tesis_titulo: Autentificación Desmentible en Canales Anónimos
+      tesis_url: https://repositorio.uchile.cl/handle/2250/104067
+    
+    - nombre: Francisca Moreno
+      cargo: Memorista de Pregrado
+      periodo: 2010
+      tesis_titulo: Diseño e Implementación de un Esquema de Encriptación y Firmas Basado en Identidad para Dispositivos BUG
+      tesis_url: https://repositorio.uchile.cl/handle/2250/103758
+
+    - nombre: Fernando Krell
+      cargo: Memorista de Pregrado
+      periodo: 2009
+      tesis_titulo: Implementación y Estudio de Seguridad de un Sistema de Respaldo de Datos Distribuido
+      tesis_url: https://repositorio.uchile.cl/handle/2250/103328
+
+    - nombre: Francisco Echeverría
+      cargo: Memorista de Pregrado
+      periodo: 2008
+      tesis_titulo: Implementación y Evaluación de Sistema de Monitoreo de Seguridad Basado en Flujos de Paquetes IP
+      tesis_url: https://repositorio.uchile.cl/handle/2250/104876
+    
+    - nombre: Sergio Miranda
+      cargo: Memorista de Pregrado
+      periodo: 2008
+      tesis_titulo: Implementación y Evaluación de un Sistema de Votación Electrónica, Basado en Técnicas Criptográficas, para una Votación de Pequeña Escala
+      tesis_url: https://repositorio.uchile.cl/handle/2250/103195
+
+    - nombre: Pamela Cordero
+      cargo: Memorista de Pregrado
+      periodo: 2008
+      tesis_titulo: Implementación de un Sistema de Votación Electrónica Eficiente para Múltiples Candidatos
+      tesis_url: https://repositorio.uchile.cl/handle/2250/103180
