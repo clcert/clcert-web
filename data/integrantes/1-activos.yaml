@@ -18,11 +18,11 @@ integrantes:
     github: camilog
     bio: Ingeniero Civil en Computación y MSc. mención Computación de la U. de Chile
 
-  - nombre: "Eduardo Riveros"
+  - nombre: Eduardo Riveros
     cargo: "Co-Director de HackerLab."
     mail: eduardo.riveros.r@uchile.cl
     foto: "eriveros.jpg"
-    github: "riverosroca"
+    github: riverosroca
     web: https://bit.xor.cl/
     bio: Ingeniero Civil en Computación y MSc. mención Computación de la U. de Chile
   
@@ -37,6 +37,7 @@ integrantes:
     bio: Estudiante de Pregrado
     mail: natalia.quinteros@ug.uchile.cl
     foto: nquinteros.jpg
+    github: NataliaQuinteros
 
   - nombre: Gerardo Trincado
     cargo: Memorista de Hackerlab
@@ -51,7 +52,7 @@ integrantes:
     foto: nsantibanez.jpg
 
   - nombre: Bryan Ortiz
-    cargo: Ingeniero de Desarrollo e Investigación en Random UChile
+    cargo: Colaborador en Random UChile
     bio: Estudiante de Postgrado
     foto: bortiz.jpg
     mail: bortiz@dcc.uchile.cl
@@ -72,10 +73,6 @@ integrantes:
     bio: Ingeniero Civil en Computación de la U. de Chile
     foto: cjaramillo.jpg
 
-  - nombre: Marta Apablaza
-    cargo: Periodista en Participa UChile
-    foto: mapablaza.jpg
-
   - nombre: Darlene Sobarzo
     cargo: Colaboradora en Participa UChile
     bio: Estudiante de Pregrado
@@ -95,4 +92,12 @@ integrantes:
 
   - nombre: Diego García
     cargo: Colaborador en Participa UChile
+    bio: Estudiante de Pregrado
+
+  - nombre: Victoria Labarca
+    cargo: Colaboradora en Random UChile
+    bio: Estudiante de Pregrado
+
+  - nombre: Antonia Gutiérrez
+    cargo: Colaboradora en Participa UChile
     bio: Estudiante de Pregrado
