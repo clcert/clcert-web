@@ -25,38 +25,11 @@ integrantes:
     github: riverosroca
     web: https://bit.xor.cl/
     bio: Ingeniero Civil en Computación y MSc. mención Computación de la U. de Chile
-  
-  - nombre: Fernanda Macías
-    mail: fernanda.macias@ug.uchile.cl
-    cargo: Ingeniera de Desarrollo e Investigación en Participa UChile
-    bio: Ingeniera Civil en Computación de la U. de Chile
-    foto: fmacias.jpg
 
-  - nombre: Natalia Quinteros
-    cargo: Memorista de Hackerlab
-    bio: Estudiante de Pregrado
-    mail: natalia.quinteros@ug.uchile.cl
-    foto: nquinteros.jpg
-    github: NataliaQuinteros
-
-  - nombre: Gerardo Trincado
-    cargo: Memorista de Hackerlab
-    bio: Estudiante de Pregrado
-    mail: gerardo.trincado@ug.uchile.cl
-    foto: gtrincado.jpg
-
-  - nombre: Nicolás Santibáñez
-    cargo: Memorista de Hackerlab
-    bio: Estudiante de Pregrado
-    mail: nicolassantibanez@ug.uchile.cl
-    foto: nsantibanez.jpg
-
-  - nombre: Bryan Ortiz
-    cargo: Colaborador en Random UChile
-    bio: Estudiante de Postgrado
-    foto: bortiz.jpg
-    mail: bortiz@dcc.uchile.cl
-    github: bryawnie
+  - nombre: Cristóbal Jaramillo
+    cargo: Ingeniero de Desarrollo e Investigación en Participa UChile
+    bio: Ingeniero Civil en Computación de la U. de Chile
+    foto: cjaramillo.jpg
 
   - nombre: Camila Ramírez B.
     cargo: Colaboradora en Random UChile
@@ -67,11 +40,6 @@ integrantes:
     cargo: Ingeniero de Desarrollo e Investigación en Participa UChile
     bio: Estudiante de Postgrado
     foto: rdelafuente.jpg
-
-  - nombre: Cristóbal Jaramillo
-    cargo: Ingeniero de Desarrollo e Investigación en Participa UChile
-    bio: Ingeniero Civil en Computación de la U. de Chile
-    foto: cjaramillo.jpg
 
   - nombre: Darlene Sobarzo
     cargo: Colaboradora en Participa UChile
@@ -91,13 +59,21 @@ integrantes:
     bio: Estudiante de Pregrado
 
   - nombre: Diego García
-    cargo: Colaborador en Participa UChile
+    cargo: Investigador en Random UChile
     bio: Estudiante de Pregrado
 
   - nombre: Victoria Labarca
-    cargo: Colaboradora en Random UChile
+    cargo: Investigadora en Random UChile
     bio: Estudiante de Pregrado
 
   - nombre: Antonia Gutiérrez
     cargo: Colaboradora en Participa UChile
+    bio: Estudiante de Pregrado
+  
+  - nombre: David Contreras
+    cargo: Investigador en Random UChile
+    bio: Estudiante de Pregrado
+
+  - nombre: Roberto Rivera
+    cargo: Colaborador en Participa UChile
     bio: Estudiante de Pregrado
