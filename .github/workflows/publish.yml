@@ -9,7 +9,7 @@ jobs:
   deploy:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v3
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
@@ -20,7 +20,7 @@ jobs:
           hugo-version: '0.80.0'
           extended: true
       - name: Caching
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         with:
           path: /tmp/hugo_cache
           key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
