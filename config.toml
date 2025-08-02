@@ -54,11 +54,6 @@ weight = 4
 url = "/blog"
 
 [[menu.main]]
-name = "Diplomados"
-weight = 5
-url = "/diplomados"
-
-[[menu.main]]
 name = "Humor"
 weight = 6
 url = "/humor"
