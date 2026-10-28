@@ -7,39 +7,30 @@ weight: 1
 
 {{<accordion/item "¿Qué es el CLCERT y que significan sus siglas?">}}
 
-El Laboratorio de Criptografía Aplicada y Ciberseguridad (CLCERT) es una iniciativa de la Universidad de Chile que surge en Octubre de 2001 y cuya misión es monitorear y analizar los problemas de seguridad de los sistemas computacionales en Chile, y generar tanto el conocimiento como el recurso humano especializado para asegurar dichos sistemas.
-
-El CLCERT genera espacios para que las empresas del sector de seguridad puedan prosperar, informarse y capacitarse, y tengan un referente de información imparcial y confiable. 
+El Laboratorio de Criptografía Aplicada y Ciberseguridad (CLCERT) es una iniciativa de la Universidad de Chile que surge en Octubre de 2001 cuya
+misión es generar conocimiento especializado y herramientas en criptografía aplicada y ciberseguridad. 
+Formada por académicos, profesionales y estudiantes asociados a la Universidad de Chile, busca entender los sistemas informáticos que nos rodean para identificar y resolver problemas de seguridad que afecten a la comunidad y el país. 
 
 {{</accordion/item>}}
 
 {{<accordion/item "¿Cuáles son los objetivos del CLCERT?">}}
 El CLCERT tiene como principales objetivos:
 
-* Entregar en forma oportuna y sistemática información sobre vulnerabilidades de seguridad y amenazas.
-* Divulgar y poner a disposición de la comunidad información que permita prevenir y resolver estos incidentes de seguridad
-* Educar a la comunidad en general sobre temas de seguridad, promoviendo las políticas que permiten su implementación.
-* Investigar y desarrollar herramientas computacionales para mejorar la privacidad y seguridad de la comunidad chilena, su información y procesos, particularmente aquellos con impacto público.
+* Realizar investigación en criptografía aplicada y ciberseguridad, y desarrollar herramientas en dichas áreas.
+* Estudiar y analizar sistemas informáticos para identificar vulnerabilidades y determinar cómo protegerlos.
+* Educar y promover el desarrollo de tecnologías y políticas públicas que permitan mejorar la ciberseguridad.
 
-CLCERT promueve el uso de Internet, los sistemas computacionales abiertos, y las tecnologías de la información, haciendo sus usos más seguros y que por lo tanto gocen de la confianza de la comunidad que los utiliza.
+CLCERT promueve el desarrollo de tecnologías que posibiliten sistemas más privados, transparentes, y robustos, desde una perspectiva responsable en sus implicancias éticas e influencia en la sociedad.
 
-El CLCERT es una organización local de investigación y transferencia científico-tecnológica abocada a prevenir, monitorear, manejar y responder a emergencias computacionales. El énfasis de su quehacer está en la estructuración de redes de confianza y en potenciar la formación del capital humano capaz de enfrentar el dinámico desafío que conlleva el garantizar la seguridad de la infraestructura informática y de comunicaciones. El CLCERT no compite con empresas del sector privado cuyo foco es la comercialización de productos de seguridad y de servicios asociados.
-
-Sobre-simplificando y obviando órdenes de magnitud, el CLCERT pretende cumplir en el ámbito de la seguridad informática, un rol similar al que desempeñan:
-
-* El Instituto Sismológico como monitor de actividad sísmica y elaborador de investigación asociada a fenómenos sísmicos que puedan afectar a la comunidad.
-* El INE como generador de mediciones de la realidad.
-* El Instituto Inmunológico como articulador de campañas y políticas para velar por el bienestar de la salud pública.
 {{</accordion/item>}}
 
 {{<accordion/item "¿En qué se diferencia el CLCERT de una empresa tradicional de seguridad?">}}
-El CLCERT aborda desde una nueva perspectiva el problema de la seguridad en las redes nacionales y aporta una visión país y por lo tanto, de interés público. Todo esto, con un enfoque moderno que no busca subvenciones, sino el potenciar ventajas competitivas que emanan de la cercanía del CLCERT a una institución del prestigio docente, tecnológicamente neutra y de la capacidad científica y tecnológica como la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile.
+El CLCERT es una entidad académica y aborda desde dicha perspectiva el problema de la ciberseguridad en las redes nacionales y aporta una visión país y por lo tanto, de interés público. Todo esto, con una visión tecnológicamente neutra, y con el respaldo de la capacidad científica y tecnológica como la provista por la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile.
 {{</accordion/item>}}
 
 {{<accordion/item "¿Hace cuanto tiempo se encuentra en operación el CLCERT?">}}
 
 El CLCERT se encuentra en operación desde Octubre del 2001.
-
 
 {{</accordion/item>}}
 
