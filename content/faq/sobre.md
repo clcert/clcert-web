@@ -59,7 +59,7 @@ En la actualidad, el CLCERT provee los siguientes servicios:
 {{</accordion/item>}}
 
 
-{{<accordion/item "¿Existe alguna relación entre el CLCERT y otros grupos que utilizan "CERT" dentro de sus nombres?">}}
+{{<accordion/item "¿Existe alguna relación entre el CLCERT y otros grupos que utilizan CERT dentro de sus nombres?">}}
 
 Actualmente, ninguna. Durante el periodo 2003-2022, la relación entre los diferentes CERT's (Computer Emergency Response Team) que existen en el mundo y el CLCERT se dió a través del FIRST (Forum of Incident and Security Response Team).
 
