@@ -44,7 +44,10 @@ El CLCERT se encuentra en operación desde Octubre del 2001.
 {{</accordion/item>}}
 
 {{<accordion/item "¿Cuáles han sido los aportes principales del CLCERT desde su creación?">}}
-El CLCERT ha trabajado afianzando un equipo humano, desarrollando procedimientos de trabajo, generando y difundiendo información. Ha establecido contactos con una amplia red de profesionales del área de la administración de sistemas, con empresas de seguridad, con organismos estatales que tienen o podrían tener injerencia en este tema (como la Subsecretaría de Telecomunicaciones, Ministerio de Defensa, Ministerio de Economía, Fuerzas Armadas, entre otros). Se ha insertado junto a sus pares en organizaciones internacionales como el FIRST (Forum of Incident Response and Security Teams).
+El CLCERT ha trabajado desarrollando académicos y profesionales en el área de Criptografía Aplicada y Ciberseguridad, desarrollando proyectos de investigación en la misma área, y ha generado y difundido información técnica relevante para la comunidad. 
+En el proceso, ha establecido una amplia red de colaboradores nacionales e internacionales, generando así un espacio de colaboración con
+profesionales del área, entidades académicas y de investigación, empresas de seguridad y organismos estatales. Cuando fue relevante, se 
+representó a Chile ante organizaciones internacionales como el FIRST (Forum of Incident Response and Security Teams). 
 
 {{</accordion/item>}}
 
@@ -67,7 +70,7 @@ En la actualidad, el CLCERT provee los siguientes servicios:
 
 {{<accordion/item "¿Existe alguna relación entre el CLCERT y otros grupos que utilizan "CERT" dentro de sus nombres?">}}
 
-La relación entre los diferentes CERT's (Computer Emergency Response Team) que existen en el mundo y el CLCERT se da a través del FIRST (Forum of Incident and Security Response Team).
+Actualmente, ninguna. Durante el periodo 2003-2022, la relación entre los diferentes CERT's (Computer Emergency Response Team) que existen en el mundo y el CLCERT se dió a través del FIRST (Forum of Incident and Security Response Team).
 
 {{</accordion/item>}}
 
@@ -76,26 +79,26 @@ El FIRST (Forum of Incident and Security Response Teams) es el foro de equipos d
 
 Quedó claro en ese entonces que el intercambio de información y la cooperación en eventos de mutuo interés como nuevas vulnerabilidades o amenazas de impacto mundial - especialmente en sistemas propios del núcleo de las organizaciones como los servidores DNS o Internet como una infraestructura crítica por si misma - serían aspectos claves para los equipos de respuesta a incidentes de seguridad.
 
-Desde 1990, cuando el FIRST fue fundado, sus miembros han contenido una cadena casi continua de ataques relacionados con la seguridad e incidentes incluyendo el manejo de miles de vulnerabilidades de seguridad que han afectado casi a todos los sistemas computacionales y redes del mundo.
+Desde 1990, fecha de creación de FIRST, sus miembros han contenido una cadena casi continua de ataques relacionados con la seguridad e incidentes incluyendo el manejo de miles de vulnerabilidades de seguridad que han afectado casi a todos los sistemas computacionales y redes del mundo.
 
 En FIRST participan una gran variedad de equipos de respuesta a incidentes de seguridad, incluyendo equipos de productos de seguridad de áreas de gobierno, comerciales y académicas.
-Última modificación: Ago/2017, por pvenegas.
-I.10	¿De qué sirve ser miembro de FIRST?
+
+{{<accordion/item "¿De qué sirve ser miembro de FIRST?">}}
 
 Los incidentes computacionales no respetan límites geográficos, zonas horarias o límites administrativos en esta Internet globalizada. La resolución de cualquier incidente de seguridad computacional puede implicar generalmente a muchos sitios, que se pueden situar en diferentes lugares alrededor del mundo. Cada equipo de respuesta de incidentes puede asistir a sus usuarios locales y coordinar una respuesta apropiada con otros equipos para proporcionar una solución global al problema.
 
-Los principales beneficios de ser un miembro de FIRST son los siguientes:
+Los principales beneficios de ser miembro de FIRST son los siguientes:
 
 * Posibilidad de cooperación entre componentes de las tecnologías de la información en la prevención, detección, y la recuperación eficaces de los incidentes de seguridad de informática.
 * Uso de los medios de comunicación de FIRST para la difusión de alertas y consejos sobre posibles situaciones emergentes que requieran el cuidado de los miembros.
 * Posibilidad de generar acciones y actividades de los incluyendo la investigación, actividades operacionales.
 * Acceso al intercambio de información, herramientas y de técnicas relacionadas con la seguridad entre sus miembros.
 
-El CLCERT ha sido integrado a este foro de grupos de respuesta de incidentes después de un proceso que estuvo a cargo del CAIS, que es uno de los equipos miembros permanentes de FIRST en Brasil. El CLCERT es el único ente certificado FIRST en Chile y uno de los pocos certificados en América Latina.
+El CLCERT integró este foro de grupos de respuesta de incidentes luego de un proceso que estuvo a cargo del CAIS, que es uno de los equipos miembros permanentes de FIRST en Brasil. Hasta el año 2020, cuando el CSIRT del gobierno de Chile se unió a FIRST, el CLCERT era el único ente certificado FIRST en Chile y uno de los pocos certificados en América Latina.
 {{</accordion/item>}}
 
 {{<accordion/item "¿Cuál es la relación entre el CLCERT y FIRST?">}}
-El CLCERT es miembro de FIRST desde el Abril del 2003.
+El CLCERT fue miembro de FIRST desde el Abril del 2003 hasta Julio 2022.
 {{</accordion/item>}}
 
 
