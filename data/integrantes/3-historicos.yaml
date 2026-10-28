@@ -2,23 +2,23 @@ nombre: "Históricos"
 tamano: 3
 integrantes:
   - nombre: "Marcos Kiwi"
-    cargo: "Director Alterno"
+    cargo: "Miembro fundador y ex-Director"
     foto: "mkiwi.jpg"
     bio: "Académico del Departamento de Ingeniería Matemática e Investigador Asociado al Centro de Modelamiento Matemático de la U. de Chile"
   - nombre: "Sergio Miranda"
-    cargo: "Director de Tecnología"
+    cargo: "Miembro fundador y ex-Director de Tecnología"
     foto: "smiranda.jpg"
     bio: "Ingeniero Civil en Computación de la U. de Chile y Director del Centro de Computación de la FCFM de la U. de Chile"
   - nombre: "Cristián Rojas"
-    cargo: "Investigador Asociado"
+    cargo: "Colaborador y Ex-Investigador Asociado"
     foto: "crojas.jpg"
     twitter: "InjenieroBarsa"
-    bio: Ingeniero Civil en Computación y MSc. mención Computación de la U. de Chile. 
+    bio: "Ingeniero Civil en Computación y MSc. mención Computación de la U. de Chile." 
   - nombre: Alejandro González
-    cargo: Colaborador en Random UChile
+    cargo: "Colaborador en Random UChile"
     bio: Estudiante de Pregrado
     foto: agonzalez.jpg
   - nombre: Marta Apablaza
-    cargo: Periodista en Participa UChile
+    cargo: "Periodista en Participa UChile"
     foto: mapablaza.jpg
 
