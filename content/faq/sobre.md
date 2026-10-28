@@ -44,7 +44,7 @@ representó a Chile ante organizaciones internacionales como el FIRST (Forum of 
 
 {{<accordion/item "¿Quién financia el CLCERT?">}}
 
-Durante sus tres primeros años de operación, el CLCERT se financió gracias al Centro de Modelamiento Matemático (CMM) y el Departamento de Ciencias de la Computación (DCC) ambos de la Universidad de Chile. A partir de su cuarto año de existencia, el CLCERT se ha autofinanciado a través de actividades de capacitación, asesorías al sector público en el desarrollo de políticas de seguridad computacional, proyectos de investigación y el auspicio de empresas privadas.
+Durante sus tres primeros años de operación, el CLCERT se financió gracias al Centro de Modelamiento Matemático (CMM) y el Departamento de Ciencias de la Computación (DCC) ambos de la Universidad de Chile. A partir de su cuarto año de existencia, el CLCERT se ha autofinanciado a través de actividades de capacitación, asesorías al sector público en el desarrollo de políticas de seguridad computacional, proyectos de investigación nacionales e internacionales, y el auspicio de empresas privadas.
 
 {{</accordion/item>}}
 
